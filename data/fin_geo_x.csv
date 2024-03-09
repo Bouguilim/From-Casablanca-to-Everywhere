@@ -1,0 +1,341 @@
+,country,city,duration,trajectory,departure_time,arrival_time,airport_id,airline,price
+0,Fiji,Nadi,29h 35m,2 stops,13:35,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,331"
+1,Fiji,Nadi,28h 5m,2 stops,15:05,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,402"
+2,Fiji,Nadi,27h 10m,2 stops,16:00,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,534"
+3,Fiji,Nadi,32h 15m,2 stops,15:05,11:20+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,402"
+4,Fiji,Nadi,32h 15m,2 stops,15:05,11:20+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,448"
+5,Fiji,Nadi,34h 55m,3 stops,16:00,14:55+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,406"
+6,Fiji,Nadi,29h 10m,2 stops,14:00,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,688"
+7,Fiji,Nadi,35h 45m,3 stops,19:00,18:45+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,399"
+8,Fiji,Nadi,35h 50m,3 stops,11:30,11:20+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png","€1,437"
+9,Fiji,Nadi,31h 20m,2 stops,16:00,11:20+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,673"
+10,Fiji,Nadi,35h 50m,3 stops,17:10,17:00+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png","€1,454"
+11,Fiji,Nadi,40h 45m,2 stops,02:25,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,377"
+12,Fiji,Nadi,29h 35m,2 stops,13:35,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,759"
+13,Fiji,Nadi,32h 10m,3 stops,09:35,05:45+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png","€1,705"
+14,Fiji,Nadi,30h 30m,2 stops,14:00,08:30+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,858"
+15,Fiji,Nadi,35h 5m,3 stops,13:35,12:40+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,636"
+16,Fiji,Nadi,35h ,3 stops,08:10,07:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,671"
+17,Fiji,Nadi,33h 55m,3 stops,13:25,11:20+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,722"
+18,Fiji,Nadi,41h 25m,2 stops,09:30,14:55+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png","€1,560"
+19,Fiji,Nadi,32h 10m,2 stops,14:00,10:10+2,NAN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,860"
+20,Finland,Helsinki,8h 45m,1 stop,02:25,13:10,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€145
+21,Finland,Helsinki,12h 30m,1 stop,02:25,16:55,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€148
+22,Finland,Helsinki,14h 15m,2 stops,02:25,18:40,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€177
+23,Finland,Helsinki,14h 15m,2 stops,02:25,18:40,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€177
+24,Finland,Helsinki,14h 15m,2 stops,02:25,18:40,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€177
+25,Finland,Helsinki,14h 15m,2 stops,02:25,18:40,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€177
+26,Finland,Helsinki,8h 10m,1 stop,13:25,23:35,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€283
+27,Finland,Helsinki,12h ,2 stops,11:00,01:00+1,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€228
+28,Finland,Helsinki,8h 40m,2 stops,13:25,00:05+1,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+29,Finland,Helsinki,14h 15m,2 stops,02:25,18:40,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€206
+30,Finland,Helsinki,7h 35m,1 stop,13:25,23:00,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€329
+31,Finland,Helsinki,13h 20m,2 stops,08:15,23:35,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€241
+32,Finland,Helsinki,9h 5m,2 stops,02:25,13:30,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€307
+33,Finland,Helsinki,9h 40m,2 stops,13:20,01:00+1,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€299
+34,Finland,Helsinki,8h 40m,1 stop,12:20,23:00,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€329
+35,Finland,Helsinki,9h ,1 stop,01:10,12:10,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€330
+36,Finland,Helsinki,10h ,2 stops,13:00,01:00+1,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€317
+37,Finland,Helsinki,19h ,2 stops,02:25,23:25,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€190
+38,Finland,Helsinki,9h 20m,1 stop,11:30,22:50,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€343
+39,Finland,Helsinki,9h 40m,2 stops,13:20,01:00+1,HEL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€326
+40,Finland,Kokkola/Pietarsaari,9h 35m,2 stops,13:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€383
+41,Finland,Kokkola/Pietarsaari,10h ,2 stops,13:00,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€378
+42,Finland,Kokkola/Pietarsaari,10h 40m,3 stops,12:20,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€395
+43,Finland,Kokkola/Pietarsaari,9h 25m,2 stops,13:35,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€453
+44,Finland,Kokkola/Pietarsaari,11h 30m,2 stops,11:30,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€411
+45,Finland,Kokkola/Pietarsaari,10h ,2 stops,13:00,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€452
+46,Finland,Kokkola/Pietarsaari,12h ,3 stops,11:00,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€431
+47,Finland,Kokkola/Pietarsaari,10h 5m,2 stops,12:55,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€505
+48,Finland,Kokkola/Pietarsaari,14h 50m,3 stops,08:10,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+49,Finland,Kokkola/Pietarsaari,14h 50m,3 stops,08:10,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€405
+50,Finland,Kokkola/Pietarsaari,14h 20m,3 stops,02:25,18:45,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€420
+51,Finland,Kokkola/Pietarsaari,12h ,3 stops,11:00,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€492
+52,Finland,Kokkola/Pietarsaari,14h 20m,3 stops,02:25,18:45,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€465
+53,Finland,Kokkola/Pietarsaari,20h 35m,3 stops,02:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€321
+54,Finland,Kokkola/Pietarsaari,20h 35m,3 stops,02:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€337
+55,Finland,Kokkola/Pietarsaari,20h 35m,3 stops,02:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€339
+56,Finland,Kokkola/Pietarsaari,20h 35m,3 stops,02:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€349
+57,Finland,Kokkola/Pietarsaari,20h 35m,3 stops,02:25,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€349
+58,Finland,Kokkola/Pietarsaari,14h 50m,3 stops,08:10,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€496
+59,Finland,Kokkola/Pietarsaari,14h 50m,3 stops,08:10,01:00+1,KOK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€498
+60,Finland,Kuopio,9h 55m,2 stops,13:00,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+61,Finland,Kuopio,10h ,2 stops,12:55,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€393
+62,Finland,Kuopio,9h 20m,2 stops,13:35,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€416
+63,Finland,Kuopio,11h 25m,2 stops,11:30,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€403
+64,Finland,Kuopio,10h 35m,3 stops,12:20,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€404
+65,Finland,Kuopio,9h 30m,2 stops,13:25,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€453
+66,Finland,Kuopio,11h 55m,3 stops,11:00,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€441
+67,Finland,Kuopio,14h 45m,3 stops,08:10,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+68,Finland,Kuopio,14h 45m,3 stops,08:10,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€415
+69,Finland,Kuopio,10h ,2 stops,12:55,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€539
+70,Finland,Kuopio,17h 15m,2 stops,13:00,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+71,Finland,Kuopio,17h 20m,2 stops,12:55,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€397
+72,Finland,Kuopio,16h 40m,2 stops,13:35,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€416
+73,Finland,Kuopio,20h 30m,3 stops,02:25,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€321
+74,Finland,Kuopio,20h 30m,3 stops,02:25,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€346
+75,Finland,Kuopio,17h 55m,3 stops,12:20,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€404
+76,Finland,Kuopio,20h 30m,3 stops,02:25,00:55+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€348
+77,Finland,Kuopio,18h 45m,2 stops,11:30,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€406
+78,Finland,Kuopio,19h 35m,3 stops,16:05,13:40+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€371
+79,Finland,Kuopio,16h 50m,2 stops,13:25,08:15+1,KUO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€452
+80,Finland,Kuusamo,17h 20m,2 stops,13:25,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€368
+81,Finland,Kuusamo,17h 10m,2 stops,13:35,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€403
+82,Finland,Kuusamo,17h 45m,2 stops,13:00,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€397
+83,Finland,Kuusamo,17h 50m,2 stops,12:55,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€414
+84,Finland,Kuusamo,17h 40m,3 stops,02:25,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€388
+85,Finland,Kuusamo,17h 25m,2 stops,13:20,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€434
+86,Finland,Kuusamo,18h 5m,2 stops,12:40,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€443
+87,Finland,Kuusamo,19h 15m,2 stops,11:30,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€425
+88,Finland,Kuusamo,11h 55m,2 stops,08:10,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€586
+89,Finland,Kuusamo,21h 50m,2 stops,13:25,13:15+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€375
+90,Finland,Kuusamo,19h ,2 stops,11:45,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/192.png",€438
+91,Finland,Kuusamo,17h 40m,3 stops,02:25,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€439
+92,Finland,Kuusamo,17h 45m,2 stops,13:00,08:45+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€476
+93,Finland,Kuusamo,11h 55m,2 stops,08:10,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€605
+94,Finland,Kuusamo,21h 40m,2 stops,13:35,13:15+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€403
+95,Finland,Kuusamo,17h 40m,3 stops,02:25,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€467
+96,Finland,Kuusamo,17h 40m,3 stops,02:25,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€484
+97,Finland,Kuusamo,22h 15m,2 stops,13:00,13:15+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€417
+98,Finland,Kuusamo,22h 20m,2 stops,12:55,13:15+1,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€419
+99,Finland,Kuusamo,17h 40m,3 stops,02:25,22:05,KAO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€496
+100,Finland,Oulu,10h 10m,2 stops,12:55,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€363
+101,Finland,Oulu,10h 5m,2 stops,13:00,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+102,Finland,Oulu,11h 35m,2 stops,11:30,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€400
+103,Finland,Oulu,10h 45m,3 stops,12:20,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€404
+104,Finland,Oulu,9h 40m,2 stops,13:25,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€453
+105,Finland,Oulu,10h 5m,2 stops,13:00,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€452
+106,Finland,Oulu,9h 45m,2 stops,13:20,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€458
+107,Finland,Oulu,14h 55m,3 stops,08:10,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€382
+108,Finland,Oulu,10h 25m,2 stops,12:40,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€477
+109,Finland,Oulu,9h 30m,2 stops,13:35,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€494
+110,Finland,Oulu,12h 5m,3 stops,11:00,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€441
+111,Finland,Oulu,17h 45m,2 stops,12:55,08:40+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€362
+112,Finland,Oulu,20h 40m,3 stops,02:25,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€312
+113,Finland,Oulu,14h 55m,3 stops,08:10,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€415
+114,Finland,Oulu,17h 40m,2 stops,13:00,08:40+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€397
+115,Finland,Oulu,19h 50m,2 stops,12:55,10:45+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€368
+116,Finland,Oulu,10h 10m,2 stops,12:55,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€539
+117,Finland,Oulu,12h 5m,3 stops,11:00,01:05+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€492
+118,Finland,Oulu,23h 55m,2 stops,11:00,12:55+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€311
+119,Finland,Oulu,18h 20m,3 stops,16:35,12:55+1,OUL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€392
+120,Finland,Rovaniemi,9h 30m,2 stops,13:25,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€368
+121,Finland,Rovaniemi,10h 35m,2 stops,12:20,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€379
+122,Finland,Rovaniemi,16h 25m,1 stop,18:30,12:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€306
+123,Finland,Rovaniemi,9h 35m,2 stops,13:20,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€408
+124,Finland,Rovaniemi,18h 30m,2 stops,18:15,14:45+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€260
+125,Finland,Rovaniemi,11h 25m,2 stops,11:30,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€403
+126,Finland,Rovaniemi,10h 15m,2 stops,12:40,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€441
+127,Finland,Rovaniemi,9h 55m,2 stops,13:00,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€448
+128,Finland,Rovaniemi,16h 40m,1 stop,18:15,12:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€364
+129,Finland,Rovaniemi,14h 45m,2 stops,08:10,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€390
+130,Finland,Rovaniemi,14h 45m,2 stops,08:10,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€390
+131,Finland,Rovaniemi,18h 15m,2 stops,18:30,14:45+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€342
+132,Finland,Rovaniemi,21h 15m,2 stops,19:15,18:30+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€298
+133,Finland,Rovaniemi,9h 55m,2 stops,13:00,00:55+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€495
+134,Finland,Rovaniemi,17h 10m,2 stops,13:25,08:35+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€375
+135,Finland,Rovaniemi,17h 10m,2 stops,13:25,08:35+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€375
+136,Finland,Rovaniemi,20h 10m,3 stops,16:35,14:45+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€309
+137,Finland,Rovaniemi,20h 10m,3 stops,16:35,14:45+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€309
+138,Finland,Rovaniemi,21h 15m,2 stops,19:15,18:30+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€315
+139,Finland,Rovaniemi,18h 15m,2 stops,12:20,08:35+1,RVN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€379
+140,Finland,Tampere,8h 20m,1 stop,12:40,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€316
+141,Finland,Tampere,9h 55m,2 stops,12:40,00:35+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€410
+142,Finland,Tampere,9h 40m,2 stops,12:55,00:35+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€486
+143,Finland,Tampere,12h 5m,2 stops,02:25,16:30,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€472
+144,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€469
+145,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€472
+146,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€473
+147,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€480
+148,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€480
+149,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€481
+150,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€250
+151,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€250
+152,Finland,Tampere,12h 5m,3 stops,02:25,16:30,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€489
+153,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€251
+154,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€251
+155,Finland,Tampere,12h 50m,2 stops,08:10,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€506
+156,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€265
+157,Finland,Tampere,25h 45m,2 stops,19:15,23:00+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€265
+158,Finland,Tampere,20h 10m,3 stops,02:25,00:35+1,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€364
+159,Finland,Tampere,18h 35m,2 stops,02:25,23:00,TMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€418
+160,Finland,Turku,9h 40m,2 stops,12:40,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€322
+161,Finland,Turku,9h 55m,2 stops,12:40,00:35+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€389
+162,Finland,Turku,8h 45m,2 stops,13:35,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€414
+163,Finland,Turku,9h 40m,2 stops,12:55,00:35+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€426
+164,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+165,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+166,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+167,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+168,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+169,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+170,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+171,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+172,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+173,Finland,Turku,19h 55m,2 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€327
+174,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€323
+175,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€331
+176,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€333
+177,Finland,Turku,11h 30m,2 stops,02:25,15:55,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€529
+178,Finland,Turku,19h 55m,3 stops,02:25,00:20+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€344
+179,Finland,Turku,20h 10m,3 stops,02:25,00:35+1,TKU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€347
+180,Finland,Vaasa,11h 35m,2 stops,11:30,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€444
+181,Finland,Vaasa,10h 45m,3 stops,12:20,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€463
+182,Finland,Vaasa,9h 30m,2 stops,13:35,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€511
+183,Finland,Vaasa,10h 5m,2 stops,13:00,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€503
+184,Finland,Vaasa,9h 45m,2 stops,13:20,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€516
+185,Finland,Vaasa,10h 10m,2 stops,12:55,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€508
+186,Finland,Vaasa,12h 5m,3 stops,11:00,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€499
+187,Finland,Vaasa,13h 20m,3 stops,02:25,17:45,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€476
+188,Finland,Vaasa,14h 55m,3 stops,08:10,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€450
+189,Finland,Vaasa,9h 40m,2 stops,13:25,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€585
+190,Finland,Vaasa,19h 35m,3 stops,16:05,13:40+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€372
+191,Finland,Vaasa,14h 55m,3 stops,08:10,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€474
+192,Finland,Vaasa,20h 40m,3 stops,02:25,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€380
+193,Finland,Vaasa,22h 45m,3 stops,16:35,17:20+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€343
+194,Finland,Vaasa,20h 40m,3 stops,02:25,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€405
+195,Finland,Vaasa,20h 40m,3 stops,02:25,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€407
+196,Finland,Vaasa,22h 40m,2 stops,13:00,13:40+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€391
+197,Finland,Vaasa,19h 5m,3 stops,16:35,13:40+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€448
+198,Finland,Vaasa,23h 15m,3 stops,16:05,17:20+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€372
+199,Finland,Vaasa,11h 20m,2 stops,11:45,01:05+1,VAA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/192.png",€646
+200,French Guyana,Cayenne,13h 45m,1 stop,08:10,18:55,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€858
+201,French Guyana,Cayenne,19h 30m,2 stops,02:25,18:55,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€894
+202,French Guyana,Cayenne,24h ,1 stop,19:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€941
+203,French Guyana,Cayenne,19h 20m,2 stops,02:35,18:55,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,067"
+204,French Guyana,Cayenne,26h 40m,1 stop,16:35,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€942
+205,French Guyana,Cayenne,28h 5m,2 stops,15:10,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,062"
+206,French Guyana,Cayenne,28h 5m,2 stops,15:10,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,062"
+207,French Guyana,Cayenne,30h 15m,2 stops,13:00,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png","€1,051"
+208,French Guyana,Cayenne,35h 5m,1 stop,08:10,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€942
+209,French Guyana,Cayenne,35h 25m,2 stops,07:50,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€856
+210,French Guyana,Cayenne,26h 40m,3 stops,16:35,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,158"
+211,French Guyana,Cayenne,35h ,2 stops,08:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€921
+212,French Guyana,Cayenne,35h ,2 stops,08:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€921
+213,French Guyana,Cayenne,35h ,2 stops,08:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€921
+214,French Guyana,Cayenne,35h ,2 stops,08:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€921
+215,French Guyana,Cayenne,30h 20m,2 stops,12:55,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,115"
+216,French Guyana,Cayenne,31h 45m,3 stops,11:30,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€987
+217,French Guyana,Cayenne,35h ,2 stops,08:15,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€952
+218,French Guyana,Cayenne,30h 20m,3 stops,12:55,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,143"
+219,French Guyana,Cayenne,30h 20m,3 stops,12:55,16:15+1,CAY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,143"
+220,French Polynesia,Tahiti,27h ,2 stops,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€905
+221,French Polynesia,Tahiti,27h ,2 stops,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€905
+222,French Polynesia,Tahiti,27h ,2 stops,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€907
+223,French Polynesia,Tahiti,27h ,2 stops,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€907
+224,French Polynesia,Tahiti,27h ,1 stop,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,036"
+225,French Polynesia,Tahiti,27h ,1 stop,12:20,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,065"
+226,French Polynesia,Tahiti,31h 10m,2 stops,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€916
+227,French Polynesia,Tahiti,31h 10m,2 stops,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€916
+228,French Polynesia,Tahiti,31h 10m,2 stops,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€918
+229,French Polynesia,Tahiti,31h 10m,2 stops,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€918
+230,French Polynesia,Tahiti,31h 10m,1 stop,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,046"
+231,French Polynesia,Tahiti,31h 10m,1 stop,08:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,076"
+232,French Polynesia,Tahiti,38h 10m,3 stops,01:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€961
+233,French Polynesia,Tahiti,38h 10m,3 stops,01:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€963
+234,French Polynesia,Tahiti,38h 10m,3 stops,01:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€963
+235,French Polynesia,Tahiti,38h 10m,3 stops,01:10,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png","€1,053"
+236,French Polynesia,Tahiti,36h 45m,3 stops,02:35,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,101"
+237,French Polynesia,Tahiti,36h 45m,3 stops,02:35,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,101"
+238,French Polynesia,Tahiti,36h 45m,3 stops,02:35,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,103"
+239,French Polynesia,Tahiti,36h 45m,3 stops,02:35,05:20+1,PPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,103"
+240,Gabon,Libreville,4h 35m,Direct,22:55,04:30+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€537
+241,Gabon,Libreville,6h 55m,1 stop,23:15,07:10+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€916
+242,Gabon,Libreville,20h 45m,1 stop,09:25,07:10+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/4583.png",€400
+243,Gabon,Libreville,15h 15m,2 stops,09:25,01:40+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/4583.png",€748
+244,Gabon,Libreville,13h 40m,1 stop,22:25,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,141"
+245,Gabon,Libreville,18h 35m,2 stops,22:45,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€869
+246,Gabon,Libreville,21h 55m,2 stops,14:10,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€727
+247,Gabon,Libreville,17h 35m,2 stops,23:45,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€972
+248,Gabon,Libreville,22h 40m,2 stops,13:25,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€727
+249,Gabon,Libreville,23h 5m,2 stops,13:00,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€723
+250,Gabon,Libreville,23h 45m,2 stops,12:20,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€727
+251,Gabon,Libreville,27h 15m,1 stop,17:10,21:25+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€677
+252,Gabon,Libreville,18h 35m,2 stops,22:45,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,131"
+253,Gabon,Libreville,17h 35m,2 stops,23:45,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,198"
+254,Gabon,Libreville,18h 55m,2 stops,22:25,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,125"
+255,Gabon,Libreville,21h 20m,2 stops,23:05,21:25+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,025"
+256,Gabon,Libreville,18h 55m,2 stops,22:25,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,186"
+257,Gabon,Libreville,18h 55m,2 stops,22:25,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,190"
+258,Gabon,Libreville,27h 55m,2 stops,08:10,13:05+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€727
+259,Gabon,Libreville,18h 55m,2 stops,22:25,18:20+1,LBV,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,284"
+260,Gambia,Banjul,2h 40m,Direct,22:50,01:30+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€421
+261,Gambia,Banjul,7h 55m,1 stop,09:25,17:20,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/4583.png",€328
+262,Gambia,Banjul,9h 10m,1 stop,11:00,20:10,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€303
+263,Gambia,Banjul,16h 45m,2 stops,02:25,19:10,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€542
+264,Gambia,Banjul,19h ,2 stops,01:10,20:10,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€478
+265,Gambia,Banjul,20h 50m,2 stops,20:30,17:20+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/932.png",€415
+266,Gambia,Banjul,17h 45m,3 stops,02:25,20:10,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€606
+267,Gambia,Banjul,17h 45m,3 stops,02:25,20:10,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€649
+268,Gambia,Banjul,24h 10m,1 stop,11:45,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/192.png",€324
+269,Gambia,Banjul,23h ,2 stops,12:55,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€458
+270,Gambia,Banjul,22h 15m,2 stops,18:15,16:30+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€523
+271,Gambia,Banjul,23h ,2 stops,12:55,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€481
+272,Gambia,Banjul,23h 5m,2 stops,18:15,17:20+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€494
+273,Gambia,Banjul,24h 25m,2 stops,11:30,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€408
+274,Gambia,Banjul,23h ,2 stops,12:55,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€513
+275,Gambia,Banjul,24h 55m,2 stops,11:00,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€409
+276,Gambia,Banjul,22h 15m,3 stops,18:15,16:30+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€550
+277,Gambia,Banjul,23h ,3 stops,12:55,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€496
+278,Gambia,Banjul,24h 25m,3 stops,11:30,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€400
+279,Gambia,Banjul,24h 25m,3 stops,11:30,11:55+1,BJL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€422
+280,Georgia,Batumi,9h 30m,1 stop,01:10,14:40,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€129
+281,Georgia,Batumi,11h 35m,1 stop,01:10,16:45,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€239
+282,Georgia,Batumi,10h 10m,2 stops,02:35,16:45,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€384
+283,Georgia,Batumi,34h 20m,1 stop,01:10,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€228
+284,Georgia,Batumi,18h 30m,2 stops,18:15,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€397
+285,Georgia,Batumi,24h ,3 stops,11:30,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€403
+286,Georgia,Batumi,21h 55m,2 stops,13:35,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€445
+287,Georgia,Batumi,18h 15m,2 stops,18:30,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€479
+288,Georgia,Batumi,23h 20m,2 stops,13:25,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€474
+289,Georgia,Batumi,19h 35m,1 stop,17:10,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€522
+290,Georgia,Batumi,33h 5m,3 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€401
+291,Georgia,Batumi,34h 20m,3 stops,02:25,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€393
+292,Georgia,Batumi,25h 15m,3 stops,11:30,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€478
+293,Georgia,Batumi,33h 5m,4 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€420
+294,Georgia,Batumi,33h 5m,4 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€420
+295,Georgia,Batumi,33h 5m,4 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€420
+296,Georgia,Batumi,28h 35m,2 stops,08:10,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€485
+297,Georgia,Batumi,33h 5m,3 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€436
+298,Georgia,Batumi,33h 5m,4 stops,02:25,15:30+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€426
+299,Georgia,Batumi,17h 30m,2 stops,19:15,16:45+1,BUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€623
+300,Georgia,Kutaisi,10h 35m,1 stop,11:00,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€295
+301,Georgia,Kutaisi,18h 50m,2 stops,16:35,15:25+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€316
+302,Georgia,Kutaisi,25h 45m,2 stops,19:00,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€218
+303,Georgia,Kutaisi,25h 30m,3 stops,19:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€243
+304,Georgia,Kutaisi,25h 30m,3 stops,19:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€260
+305,Georgia,Kutaisi,20h 25m,3 stops,01:10,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€338
+306,Georgia,Kutaisi,28h 10m,3 stops,16:35,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€249
+307,Georgia,Kutaisi,25h 30m,3 stops,19:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€299
+308,Georgia,Kutaisi,25h 30m,3 stops,19:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€314
+309,Georgia,Kutaisi,23h 55m,2 stops,11:30,15:25+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€378
+310,Georgia,Kutaisi,33h 15m,3 stops,11:30,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€228
+311,Georgia,Kutaisi,33h 15m,3 stops,11:30,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€228
+312,Georgia,Kutaisi,25h 30m,3 stops,19:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€342
+313,Georgia,Kutaisi,19h ,3 stops,02:35,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€445
+314,Georgia,Kutaisi,33h 15m,3 stops,11:30,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€239
+315,Georgia,Kutaisi,19h ,3 stops,02:35,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€449
+316,Georgia,Kutaisi,20h 25m,2 stops,01:10,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€470
+317,Georgia,Kutaisi,20h 25m,2 stops,01:10,01:35+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€470
+318,Georgia,Kutaisi,26h 30m,3 stops,18:15,00:45+2,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€410
+319,Georgia,Kutaisi,21h ,2 stops,01:10,02:10+1,KUT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€532
+320,Georgia,Tbilisi,10h 30m,1 stop,01:10,15:40,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€148
+321,Georgia,Tbilisi,19h 45m,1 stop,01:10,00:55+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€220
+322,Georgia,Tbilisi,14h 55m,2 stops,08:10,03:05+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€297
+323,Georgia,Tbilisi,21h 55m,1 stop,01:10,03:05+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€222
+324,Georgia,Tbilisi,9h 50m,1 stop,08:10,22:00,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€395
+325,Georgia,Tbilisi,6h 55m,1 stop,17:10,04:05+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€437
+326,Georgia,Tbilisi,14h 25m,2 stops,08:10,02:35+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€331
+327,Georgia,Tbilisi,9h 50m,1 stop,08:10,22:00,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€412
+328,Georgia,Tbilisi,8h 5m,1 stop,17:10,05:15+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€437
+329,Georgia,Tbilisi,11h 25m,2 stops,13:20,04:45+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€384
+330,Georgia,Tbilisi,18h 35m,2 stops,19:15,17:50+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€343
+331,Georgia,Tbilisi,18h 35m,2 stops,19:15,17:50+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€358
+332,Georgia,Tbilisi,13h 50m,1 stop,17:10,11:00+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€437
+333,Georgia,Tbilisi,20h 10m,2 stops,02:25,02:35+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€359
+334,Georgia,Tbilisi,18h 35m,2 stops,19:15,17:50+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€387
+335,Georgia,Tbilisi,22h 20m,2 stops,02:25,04:45+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€342
+336,Georgia,Tbilisi,22h 20m,2 stops,02:25,04:45+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€342
+337,Georgia,Tbilisi,22h 20m,2 stops,02:25,04:45+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€342
+338,Georgia,Tbilisi,18h 35m,2 stops,19:15,17:50+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€402
+339,Georgia,Tbilisi,21h 40m,2 stops,01:10,02:50+1,TBS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€363

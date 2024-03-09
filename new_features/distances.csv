@@ -1,0 +1,663 @@
+city,country,distance
+Catumbela,Angola,5693.07
+Luanda,Angola,593.54
+Anguilla,Anguilla,5732.29
+Antigua,Antigua and Barbuda,5680.01
+Buenos Aires,Argentina,9245.0
+Córdoba,Argentina,9347.17
+El Califate,Argentina,11280.06
+Iguazu,Argentina,8257.47
+Mar Del Plata,Argentina,9485.4
+Mendoza,Argentina,9777.5
+Neuquen,Argentina,10185.64
+Rosario,Argentina,9248.21
+Salta,Argentina,8916.42
+San Carlos de Bariloche,Argentina,10556.02
+Tucuman,Argentina,9058.5
+Ushuaia,Argentina,11399.46
+Yerevan,Armenia,4625.99
+Aruba,Aruba,6697.13
+Adelaide,Australia,16921.47
+Alice Springs,Australia,16124.74
+Brisbane,Australia,18043.4
+Cairns,Australia,16775.99
+Gold Coast,Australia,18104.11
+Hamilton Island,Australia,17275.98
+Hobart,Australia,17607.42
+Melbourne,Australia,17504.52
+Perth,Australia,14794.52
+Sydney,Australia,18059.84
+Graz,Austria,2446.5
+Innsbruck,Austria,2202.07
+Klagenfurt,Austria,2347.25
+Linz,Austria,2445.39
+Salzburg,Austria,2337.47
+Vienna,Austria,2570.43
+Baku,Azerbaijan,5069.27
+Nassau,Bahamas,6706.13
+Bahrain,Bahrain,5596.31
+Cox's Bazar,Bangladesh,8796.01
+Dhaka,Bangladesh,9267.3
+Barbados,Barbados,5706.25
+Antwerp,Belgium,2187.43
+Brussels,Belgium,2150.19
+Belize,Belize,8157.12
+Cotonou,Benin,3200.42
+Bermuda,Bermuda,5266.28
+Cochabamba,Bolivia,8403.38
+La Paz,Bolivia,8489.55
+Santa Cruz,Bolivia,8202.66
+Sucre,Bolivia,8457.82
+Sarajevo,Bosnia and Herzegovina,2514.98
+Maun,Botswana,6806.75
+São Paulo,Brazil,7578.1
+Belem,Brazil,5783.73
+Belo Horizonte,Brazil,7087.46
+Brasília,Brazil,6956.75
+Curitiba,Brazil,7902.43
+Florianópolis,Brazil,8057.39
+Fortaleza,Brazil,5268.32
+Goiania,Brazil,7122.88
+Joao Pessoa,Brazil,5361.6
+Maceio,Brazil,5654.65
+Manaus,Brazil,6836.98
+Natal,Brazil,5256.01
+Porto Alegre,Brazil,8429.1
+Rio de Janeiro,Brazil,7324.15
+Salvador,Brazil,6124.52
+Teresina,Brazil,5673.47
+Montreal,Canada,5642.9
+Calgary,Canada,8185.62
+Vancouver,Canada,8821.65
+Edmonton,Canada,8001.65
+Halifax,Canada,4881.08
+Kelowna,Canada,8573.63
+Ottawa,Canada,5808.33
+Quebec,Canada,5440.64
+Saint Johns,Canada,4044.73
+Thunder Bay,Canada,6714.26
+Toronto,Canada,6139.36
+Winnipeg,Canada,7191.73
+Kabul,Afghanistan,6887.77
+Tirana,Albania,2556.53
+Bandar Seri Begawan,Brunei Darussalam,12624.5
+Sofia,Bulgaria,2869.17
+Varna,Bulgaria,3246.77
+Ouagadougou,Burkina Faso,2439.77
+Bujumbura,Burundi,5652.18
+Douala,Cameroon,3742.73
+Boavista,Cape Verde,2470.12
+Praia,Cape Verde,2621.05
+Sal,Cape Verde,2419.83
+Sao Vicente,Cape Verde,9493.9
+Bonaire,Caribbean Netherlands,2336.06
+Grand Cayman,Cayman Islands,7348.35
+Antofagasta,Chile,9193.9
+Arica,Chile,8808.09
+Concepcion,Chile,10355.08
+Copiapo,Chile,9466.3
+Easter Island,Chile,8346.27
+Iquique,Chile,8921.71
+La Serena,Chile,9722.45
+Puerto Montt,Chile,10683.44
+Punta Arenas,Chile,11410.4
+Santiago de Chile,Chile,9943.82
+Beijing,China,10020.41
+Chengdu,China,9895.63
+Chongqing,China,10160.73
+Guangzhou,China,11135.08
+Guilin,China,10748.51
+Hangzhou,China,11044.62
+Jiuzhaigou,China,10020.41
+Kunming,China,10180.8
+Lhasa,China,8960.43
+Lijiang City,China,8846.57
+Shanghai,China,11044.07
+Shenzhen,China,10020.41
+Barranquilla,Colombia,7229.92
+Bogota,Colombia,7551.06
+Bucaramanga,Colombia,7306.89
+Cali,Colombia,7847.4
+Cartagena de Indias,Colombia,7327.84
+Cucuta,Colombia,7202.23
+Medellin,Colombia,7586.87
+Pereira,Colombia,7686.41
+San Andres Island,Colombia,7777.37
+Santa Marta,Colombia,7158.42
+Rarotonga,Cook Islands,16953.71
+San José,Costa Rica,8148.8
+Abidjan,Côte d'Ivoire,3162.87
+Dubrovnik,Croatia,2451.97
+Split,Croatia,2352.48
+Zadar,Croatia,2286.45
+Zagreb,Croatia,2418.37
+Camaguey,Cuba,6937.94
+Cayo Coco,Cuba,12929.63
+Havana,Cuba,7251.73
+Holguin,Cuba,6813.66
+Santa Clara,Cuba,7074.09
+Santiago de Cuba,Cuba,6817.6
+Varadero,Cuba,7155.95
+Curacao,Curacao,6621.13
+Larnaca,Cyprus,3767.1
+Paphos,Cyprus,3660.46
+Prague,Czech Republic,2568.6
+Kinshasa,Democratic Republic of the Congo,4856.38
+Aalborg,Denmark,2926.42
+Aarhus,Denmark,2856.01
+Billund,Denmark,2777.74
+Bornholm,Denmark,2950.05
+Copenhagen,Denmark,2905.2
+Karup,Denmark,2832.2
+Sonderborg,Denmark,2729.19
+Djibouti,Djibouti,5687.16
+Dominica,Dominica,5740.23
+La Romana,Dominican Republic,6268.62
+Puerto Plata,Dominican Republic,6355.38
+Punta Cana,Dominican Republic,6352.61
+Galapagos Islands,Ecuador,9352.22
+Guayaquil,Ecuador,8516.09
+Quito,Ecuador,8262.37
+Abu Simbel,Egypt,3677.22
+Alexandria,Egypt,3512.53
+Aswan,Egypt,4057.66
+Cairo,Egypt,3670.61
+Hurghada,Egypt,4008.15
+Luxor,Egypt,3962.92
+Marsa Alam,Egypt,4197.79
+Sharm El Sheikh,Egypt,4029.82
+Sohag,Egypt,3838.48
+San Salvador,El Salvador,8917.58
+Malabo,Equatorial Guinea,7618.84
+Asmara,Eritrea,5078.33
+Tallinn,Estonia,3721.77
+Addis Ababa,Ethiopia,5461.42
+Faroe Islands,Faroe Islands,3160.03
+Nadi,Fiji,18188.58
+Helsinki,Finland,3778.04
+Kokkola/Pietarsaari,Finland,3967.46
+Kuopio,Finland,4074.9
+Kuusamo,Finland,4338.01
+Oulu,Finland,4138.37
+Rovaniemi,Finland,4257.05
+Tampere,Finland,3819.11
+Turku,Finland,3682.73
+Vaasa,Finland,3856.04
+Cayenne,French Guyana,5605.27
+Tahiti,French Polynesia,15832.87
+Libreville,Gabon,4099.17
+Banjul,Gambia,2416.19
+Batumi,Georgia,4369.45
+Kutaisi,Georgia,4450.26
+Tbilisi,Georgia,4629.5
+Montpellier,France,1492.8
+Paris,France,1886.72
+Lyon,France,1718.04
+Marseille,France,1559.42
+Bordeaux,France,1387.73
+Ajaccio,France,1705.12
+Bastia,France,1797.94
+Nantes,France,1597.91
+Figari,France,1713.01
+Biarritz-Anglet-Bayonne,France,1219.14
+Grenoble,France,1721.2
+Lille,France,2083.97
+Brest,France,1665.39
+Clermont-Ferrand,France,1631.5
+Chambery,France,1760.64
+Metz/Nancy,France,2066.86
+Nice,France,1707.87
+Perpignan,France,1365.14
+Rennes,France,1688.15
+Strasbourg,France,2097.23
+Toulon,France,1583.0
+Toulouse,France,1361.27
+Algiers,Algeria,1031.01
+Bejaia,Algeria,1202.64
+Annaba,Algeria,1442.38
+Djanet,Algeria,1938.26
+Constantine,Algeria,1330.64
+Oran,Algeria,680.09
+Setif,Algeria,1221.22
+Bratislava,Slovakia,2614.2
+Berlin,Germany,2689.89
+Bonn,Germany,2249.28
+Bremen,Germany,2527.21
+Dortmund,Germany,2333.56
+Düsseldorf,Germany,2279.51
+Frankfurt,Germany,2268.23
+Hamburg,Germany,2617.78
+Hannover,Germany,2505.79
+Leipzig,Germany,2547.9
+Munich,Germany,2272.5
+Nuremberg,Germany,2338.53
+Stuttgart,Germany,2186.43
+Accra,Ghana,3209.11
+Gibraltar,Gibraltar,350.54
+Athens,Greece,2855.74
+Chios,Greece,3065.53
+Crete,Greece,3049.32
+Kefallinia,Greece,2855.46
+Kerkyra,Greece,2536.14
+Kos,Greece,3172.71
+Mykonos,Greece,2996.63
+Rhodes,Greece,3260.54
+Thessaloniki,Greece,2804.45
+Thira,Greece,3011.41
+Zakinthos,Greece,2606.29
+Guam,Guam,14022.5
+Guatemala City,Guatemala,12368.43
+Conakry,Guinea,2750.03
+Bissau,Guinea-Bissau,2550.47
+Port-au-Prince,Haiti,6574.56
+Tegucigalpa,Honduras,8193.9
+Hong Kong,Hong Kong,11264.59
+Budapest,Hungary,2709.86
+Debrecen,Hungary,2889.52
+Reykjavík,Iceland,3536.12
+Ahmedabad,India,7751.66
+Bangalore,India,8774.68
+Chandigarh,India,7710.98
+Chennai,India,9009.24
+Delhi,India,7858.34
+Goa,India,8284.08
+Hyderabad,India,8598.8
+Jaipur,India,7825.98
+Kochi,India,8832.85
+Kolkata,India,9163.29
+Kozhikode,India,8714.62
+Mumbai,India,7994.51
+Port Blair,India,10230.19
+Tiruchirapalli,India,9006.9
+Bali,Indonesia,13538.72
+Balikpapan (Sepinggan),Indonesia,13226.77
+Jakarta,Indonesia,12644.47
+Manado,Indonesia,13702.02
+Semarang,Indonesia,13023.99
+Sorong (Jefman),Indonesia,14400.33
+Surabaya,Indonesia,13252.04
+Ujung Pandang,Indonesia,13711.26
+Yogyakarta,Indonesia,13069.39
+Tehran,Iran,5323.49
+Arbil,Iraq,4661.81
+Baghdad,Iraq,4770.34
+Basra,Iraq,5167.49
+Najaf,Iraq,4807.8
+Sulaymaniyah,Iraq,4797.8
+Carrickfinn,Ireland,2384.81
+Cork,Ireland,2036.19
+Dublin,Ireland,2198.43
+Knock,Ireland,2248.23
+Shannon,Ireland,2127.8
+Alghero,Italy,1608.39
+Ancona,Italy,2138.6
+Bari,Italy,2310.8
+Bologna,Italy,2028.81
+Brindisi,Italy,2387.05
+Cagliari,Italy,1618.73
+Catania,Italy,2093.91
+Comiso,Italy,2046.52
+Florence,Italy,1983.11
+Lamezia Terme,Italy,2219.57
+Lampedusa,Italy,1861.04
+Milan,Italy,1946.65
+Naples,Italy,2089.95
+Olbia,Italy,1714.54
+Palermo,Italy,1951.39
+Pantelleria,Italy,1809.49
+Pescara,Italy,2142.52
+Pisa,Italy,1919.87
+Reggio Calabria,Italy,2149.91
+Rimini,Italy,2091.09
+Rome,Italy,1987.4
+Montego Bay,Jamaica,7096.58
+Fukuoka,Japan,11352.9
+Nagasaki,Japan,11402.77
+Nagoya,Japan,11525.36
+Okinawa,Japan,11882.96
+Osaka,Japan,11497.12
+Sapporo,Japan,10928.95
+Tokyo,Japan,11597.21
+Amman,Jordan,4046.46
+Almaty,Kazakhstan,7124.38
+Nairobi,Kenya,6048.43
+Prishtina,Kosovo,2653.19
+Kuwait,Kuwait,5229.56
+Bishkek,Kyrgyzstan,6966.1
+Riga,Latvia,3531.78
+Beirut,Lebanon,3957.02
+Maseru,Lesotho,7910.03
+Vilnius,Lithuania,3463.88
+Luxembourg,Luxembourg,2108.38
+Macau,Macao,11226.37
+Skopje,Macedonia,2702.23
+Antananarivo,Madagascar,8263.15
+Ljubljana,Slovenia,2329.19
+Mogadishu,Somalia,6512.52
+Cape Town,South Africa,7984.92
+Durban,South Africa,8141.15
+George,South Africa,8141.18
+Johannesburg,South Africa,7641.45
+Nelspruit (Mpumalanga),South Africa,7730.83
+Port Elizabeth,South Africa,8274.04
+Upington,South Africa,7540.16
+Jeju City,South Korea,11148.64
+Kwangju,South Korea,11023.84
+Pusan,South Korea,11141.69
+Seoul,South Korea,10814.43
+Monte Carlo,Monaco,1720.65
+Ulaanbaatar,Mongolia,8900.45
+Podgorica,Montenegro,2538.02
+Agadir,Morocco,399.94
+Dakhla,Morocco,1365.76
+Fez,Morocco,250.15
+Laayoune,Morocco,894.13
+Marrakesh,Morocco,222.05
+Nador,Morocco,463.96
+Ouarzazate,Morocco,305.19
+Oujda,Morocco,537.81
+Rabat,Morocco,86.05
+Tangier,Morocco,293.04
+Maputo,Mozambique,7866.85
+Yangon,Myanmar,10190.92
+Windhoek,Namibia,6770.73
+Kathmandu,Nepal,8596.68
+Amsterdam,Netherlands,2314.86
+Eindhoven,Netherlands,2247.57
+Maastricht,Netherlands,2201.46
+Rotterdam,Netherlands,2257.17
+Nouméa,New Caledonia,18627.05
+Ipoh,Malaysia,11432.02
+Johor Bahru,Malaysia,11878.53
+Kota Kinabalu,Malaysia,12642.23
+Kuala Lumpur,Malaysia,11583.55
+Kuching,Malaysia,12458.73
+Langkawi,Malaysia,11203.98
+Miri,Malaysia,12579.73
+Mulu,Malaysia,12580.13
+Penang,Malaysia,11309.77
+Tawau,Malaysia,12919.89
+Male,Maldives,8929.38
+Malta (Luqa),Malta,2031.29
+Fort-de-France,Martinique,5750.87
+Nouakchott,Mauritania,1914.48
+Mauritius,Mauritius,9123.76
+Mayotte (Dzaoudzi),Mayotte,7607.4
+Acapulco,Mexico,9183.47
+Cancun,Mexico,7761.82
+Chihuahua,Mexico,8998.66
+Cozumel,Mexico,7808.84
+Guadalajara,Mexico,9256.99
+Leon,Mexico,9085.16
+Merida,Mexico,8025.3
+Mexico City,Mexico,8962.63
+Monterrey,Mexico,8695.83
+Puerto Escondido,Mexico,8955.45
+Puerto Vallarta,Mexico,9424.74
+San Jose del Cabo,Mexico,9649.49
+Tijuana,Mexico,9599.43
+Auckland,New Zealand,19593.31
+Christchurch,New Zealand,18910.22
+Dunedin,New Zealand,18640.53
+Queenstown,New Zealand,18704.04
+Rotorua,New Zealand,19402.14
+Wellington,New Zealand,19134.57
+Managua,Nicaragua,8221.47
+Niamey,Niger,2440.75
+Lagos,Nigeria,3224.46
+Saipan,Northern Mariana Islands,13897.47
+Aalesund,Norway,3353.78
+Bergen,Norway,3123.75
+Bodo,Norway,4007.05
+Haugesund,Norway,3023.02
+Kristiansand,Norway,2968.65
+Leknes,Norway,4071.72
+Oslo,Norway,3218.21
+Sandane,Norway,3284.35
+Stavanger,Norway,2988.51
+Tromso,Norway,4329.13
+Trondheim,Norway,3544.67
+Muscat,Oman,6439.59
+Gilgit,Pakistan,7291.98
+Islamabad,Pakistan,7250.04
+Karachi,Pakistan,7151.91
+Lahore,Pakistan,7463.05
+Multan,Pakistan,7282.01
+Peshawar,Pakistan,7108.65
+Quetta,Pakistan,6896.12
+Sialkot,Pakistan,7433.73
+Panama City,Panama,7200.37
+Port Moresby,Papua New Guinea,16297.15
+Asunción,Paraguay,8414.57
+Arequipa,Peru,8756.84
+Cajamarca,Peru,8715.22
+Chiclayo,Peru,8807.17
+Cuzco,Peru,8587.05
+Iquitos,Peru,8022.23
+Jauja,Peru,8762.99
+Juliaca,Peru,8577.45
+Lima,Peru,9124.49
+Piura,Peru,8774.93
+Tarapoto,Peru,8480.02
+Trujillo,Peru,8823.63
+Tumbes,Peru,8653.96
+Bacolod,Philippines,13117.42
+Cebu,Philippines,12940.77
+Davao,Philippines,13329.16
+Iloilo,Philippines,12807.74
+Luzon Island,Philippines,12301.47
+Manila,Philippines,12377.72
+Puerto Princesa,Philippines,12580.56
+Tacloban,Philippines,12947.21
+Zamboanga,Philippines,13064.11
+Gdansk,Poland,3085.84
+Katowice,Poland,2851.54
+Poznan,Poland,2863.09
+Rzeszow,Poland,3026.06
+Warsaw,Poland,3082.64
+Wroclaw,Poland,2784.17
+Faro,Portugal,381.27
+Funchal,Portugal,871.21
+Horta,Portugal,1961.99
+Lisbon,Portugal,584.4
+Ponta Delgada,Portugal,1691.86
+Porto,Portugal,844.5
+Porto Santo,Portugal,811.89
+Terceira,Portugal,1844.85
+Aguadilla,Puerto Rico,6100.55
+San Juan,Puerto Rico,6001.28
+Doha,Qatar,5725.43
+Brazzaville,Republic of the Congo,4856.17
+Saint Denis de la Reunion,Réunion,9014.26
+Bacau,Romania,3237.72
+Bucharest,Romania,3124.81
+Cluj-Napoca,Romania,3000.43
+Craiova,Romania,2942.86
+Iași,Romania,3303.77
+Oradea,Romania,2891.66
+Satu Mare,Romania,2987.37
+Sibiu,Romania,3010.41
+Timisoara,Romania,2792.23
+Tirgu Mures (Vidrasau),Romania,3063.47
+Adler/Sochi,Russian Federation,4217.46
+Ekaterinburg,Russian Federation,5646.07
+Irkutsk,Russian Federation,8412.32
+Kazan,Russian Federation,4936.98
+Moscow,Russian Federation,4230.68
+Novosibirsk,Russian Federation,7041.51
+Saint Petersburg,Russian Federation,4013.69
+Samara,Russian Federation,4985.64
+Kigali,Rwanda,5582.13
+Saint Barthelemy,Saint Barthelemy,5730.54
+Saint Kitts,Saint Kitts and Nevis,5752.61
+Saint Lucia Windward Islands,Saint Lucia,5778.31
+Saint Martin,Saint Martin,5742.97
+Saint Vincent,Saint Vincent and the Grenadines,5850.76
+Apia,Samoa,17296.39
+Riyadh,Saudi Arabia,5309.58
+Dakar,Senegal,2322.51
+Belgrade,Serbia,2702.72
+Mahe Island,Seychelles,7860.43
+Freetown,Sierra Leone,2851.01
+Singapur,Singapore,11897.27
+Alicante,Spain,830.81
+Almeria,Spain,590.39
+Asturias,Spain,1114.13
+Barcelona,Spain,1221.51
+Bilbao,Spain,1148.82
+Corvera,Spain,1114.13
+Fuerteventura,Spain,447.9
+Granada,Spain,539.43
+Ibiza,Spain,1002.73
+Jerez de la Frontera,Spain,368.94
+La Coruña,Spain,1088.96
+Lanzarote,Spain,979.25
+Las Palmas de Gran Canaria,Spain,962.0
+León,Spain,1016.89
+Madrid,Spain,834.02
+Málaga,Spain,452.7
+Menorca,Spain,834.02
+Palma de Mallorca,Spain,1130.68
+San Sebastián,Spain,1186.54
+San Sebastian de la Gomera,Spain,1093.03
+Santander,Spain,1145.46
+Santiago de Compostela,Spain,1035.53
+Seville,Spain,445.77
+Tenerife,Spain,1000.63
+Valencia,Spain,918.53
+Colombo,Sri Lanka,9348.65
+Paramaribo,Suriname,5785.3
+Altenrhein,Switzerland,2109.75
+Basel / Mulhouse,Switzerland,2006.85
+Geneva,Switzerland,1822.67
+Zurich,Switzerland,2043.97
+Hualien,Taiwan,11659.19
+Kaohsiung,Taiwan,11681.76
+Kinmen,Taiwan,11395.4
+Taichung City,Taiwan,11578.69
+Taipei,Taiwan,11564.23
+Taitung,Taiwan,11728.97
+Dushanbe,Tajikistan,6685.27
+Dar Es Salaam,Tanzania,6676.01
+Kilimanjaro,Tanzania,6303.61
+Zanzibar,Tanzania,6616.87
+Bangkok,Thailand,10774.16
+Chiang Mai,Thailand,10307.44
+Chiang Rai,Thailand,10303.02
+Hat Yai,Thailand,11219.1
+Ko Samui,Thailand,11005.81
+Krabi,Thailand,11012.69
+Phuket,Thailand,10977.45
+Udon Thani,Thailand,10719.15
+Port of Spain,Trinidad and Tobago,6029.34
+Djerba,Tunisia,1719.03
+Enfidha,Tunisia,1663.19
+Monastir,Tunisia,1700.32
+Sfax,Tunisia,1693.0
+Tozeur,Tunisia,1454.59
+Tunis,Tunisia,1653.74
+Adana,Turkey,3883.28
+Ankara,Turkey,3641.95
+Antalya,Turkey,3476.48
+Dalaman,Turkey,3308.26
+Erzurum,Turkey,4356.45
+Gaziantep,Turkey,4061.74
+Istanbul,Turkey,3313.61
+İzmir,Turkey,3151.93
+Kayseri,Turkey,3875.61
+Nevsehir,Turkey,3810.09
+Samsun,Turkey,3930.16
+Trabzon,Turkey,4214.5
+Ashgabat,Turkmenistan,5848.76
+Providenciales,Turks and Caicos Islands,6398.1
+Entebbe/Kampala,Uganda,5600.38
+Abu Dhabi,United Arab Emirates,6021.87
+Dubai,United Arab Emirates,6071.57
+Ras al Khaymah,United Arab Emirates,6107.29
+Sharjah,United Arab Emirates,6076.54
+Aberdeen,United Kingdom,2651.97
+Belfast,United Kingdom,2338.89
+Birmingham,United Kingdom,2149.27
+Bristol,United Kingdom,2026.82
+Cardiff,United Kingdom,2020.68
+Edinburgh,United Kingdom,2508.84
+Exeter,United Kingdom,1932.98
+Glasgow,United Kingdom,2489.68
+Inverness,United Kingdom,2667.62
+Jersey,United Kingdom,2027.95
+Kirkwall,United Kingdom,2843.57
+Leeds,United Kingdom,2296.78
+Liverpool,United Kingdom,2233.6
+London,United Kingdom,2080.52
+Manchester,United Kingdom,2251.59
+Newcastle,United Kingdom,2422.89
+Newquay,United Kingdom,1881.36
+Southampton,United Kingdom,1989.61
+Teesside,United Kingdom,2378.26
+Saint Thomas,United States Virgin Islands,5895.42
+Montevideo,Uruguay,9142.38
+Tashkent,Uzbekistan,6620.0
+Port Vila,Vanuatu,18206.01
+Barcelona (Jose A. Anzoategui),Venezuela,6763.85
+Barquisimeto,Venezuela,6776.79
+Caracas,Venezuela,6648.8
+Maracaibo,Venezuela,6956.93
+Puerto Ordaz,Venezuela,6285.15
+Valencia,Venezuela,6650.79
+Dong Hoi,Vietnam,11031.98
+Philadelphia,United States,5914.49
+Phoenix,United States,9167.45
+Pittsburgh,United States,6290.9
+Plattsburgh,United States,5652.45
+Portland,United States,9064.35
+Raleigh-Durham,United States,6357.98
+Reno,United States,9308.93
+Sacramento,United States,9488.14
+Saint Louis,United States,7179.75
+Salt Lake City,United States,8687.53
+San Antonio,United States,8327.1
+San Diego,United States,9595.88
+San Francisco,United States,9607.17
+San Jose,United States,9603.78
+Santa Fe,United States,8562.36
+Seattle,United States,8894.48
+Tampa,United States,7021.54
+Washington,United States,6100.95
+Albuquerque,United States,8652.92
+Anchorage,United States,8934.01
+Atlanta,United States,6920.24
+"Austin, TX",United States,8217.82
+Boston,United States,5516.2
+Bozeman,United States,8327.18
+Brainerd,United States,7142.9
+Charlotte/Douglas,United States,6556.85
+Chicago,United States,6840.19
+Cincinnati/Northern Kentucky,United States,6720.27
+Cleveland,United States,6389.63
+Cody/Yellowstone,United States,8264.18
+Colorado Springs,United States,8294.71
+Dallas,United States,8002.24
+Denver,United States,8255.27
+Duluth,United States,6976.43
+El Paso,United States,8841.71
+Fresno,United States,9503.58
+Honolulu,United States,13143.5
+Houston,United States,8046.27
+Idaho Falls,United States,8527.01
+Indianapolis,United States,6809.43
+Kailua/Kona,United States,13130.64
+Kapalua,United States,13114.7
+Las Vegas,United States,9214.98
+Los Angeles,United States,9582.2
+Louisville,United States,6839.01
+Medford,United States,9306.34
+Miami,United States,6925.02
+Minneapolis/Saint Paul,United States,7123.64
+Nashville,United States,7012.59
+New Orleans,United States,7586.16
+New York City,United States,5797.34
+North Bend,United States,8870.61
+Oakland,United States,9595.53
+Orlando,United States,6897.8
+Livingstone,Zambia,6731.92
+Harare,Zimbabwe,7035.66

@@ -1,0 +1,489 @@
+,country,city,duration,trajectory,departure_time,arrival_time,airport_id,airline,price
+0,Italy,Alghero,8h 20m,1 stop,13:00,22:20,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€268
+1,Italy,Alghero,8h 30m,1 stop,13:00,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+2,Italy,Alghero,8h 20m,1 stop,13:00,22:20,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€301
+3,Italy,Alghero,14h 10m,2 stops,02:25,17:35,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€272
+4,Italy,Alghero,16h 35m,2 stops,16:35,10:10+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€254
+5,Italy,Alghero,21h 40m,2 stops,11:30,10:10+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€190
+6,Italy,Alghero,8h 30m,1 stop,13:00,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€401
+7,Italy,Alghero,14h ,2 stops,02:35,17:35,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€348
+8,Italy,Alghero,18h 55m,2 stops,02:25,22:20,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+9,Italy,Alghero,18h 55m,2 stops,02:25,22:20,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€278
+10,Italy,Alghero,15h 10m,2 stops,06:20,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€344
+11,Italy,Alghero,21h 20m,2 stops,19:15,17:35+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€277
+12,Italy,Alghero,15h 10m,2 stops,06:20,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€408
+13,Italy,Alghero,19h 5m,3 stops,02:25,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€340
+14,Italy,Alghero,19h 5m,3 stops,02:25,22:30,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€342
+15,Italy,Alghero,15h 25m,2 stops,01:10,17:35,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€413
+16,Italy,Alghero,24h ,2 stops,16:35,17:35+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€291
+17,Italy,Alghero,26h 5m,2 stops,19:15,22:20+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€287
+18,Italy,Alghero,26h 5m,3 stops,19:15,22:20+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€300
+19,Italy,Alghero,26h 5m,3 stops,19:15,22:20+1,AHO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/67.png",€301
+20,Italy,Ancona,7h 40m,1 stop,13:00,21:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€252
+21,Italy,Ancona,8h 40m,1 stop,13:00,22:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€257
+22,Italy,Ancona,7h 40m,1 stop,13:00,21:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€285
+23,Italy,Ancona,9h 15m,2 stops,02:25,12:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€254
+24,Italy,Ancona,9h 15m,2 stops,02:25,12:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€254
+25,Italy,Ancona,9h 15m,2 stops,02:25,12:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€254
+26,Italy,Ancona,19h 40m,2 stops,16:05,12:45+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€177
+27,Italy,Ancona,8h 40m,1 stop,13:00,22:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€380
+28,Italy,Ancona,16h 45m,2 stops,16:35,10:20+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€276
+29,Italy,Ancona,18h 15m,2 stops,02:25,21:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€262
+30,Italy,Ancona,18h 15m,2 stops,02:25,21:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€262
+31,Italy,Ancona,21h 50m,2 stops,11:30,10:20+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€211
+32,Italy,Ancona,9h 15m,3 stops,02:25,12:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€410
+33,Italy,Ancona,22h 55m,2 stops,12:50,12:45+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+34,Italy,Ancona,20h 55m,2 stops,18:15,16:10+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€283
+35,Italy,Ancona,22h 45m,2 stops,13:00,12:45+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€258
+36,Italy,Ancona,10h 10m,2 stops,11:30,22:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€448
+37,Italy,Ancona,24h 45m,2 stops,11:00,12:45+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€261
+38,Italy,Ancona,20h 10m,2 stops,19:00,16:10+1,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€362
+39,Italy,Ancona,19h 30m,2 stops,01:10,21:40,AOI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€403
+40,Italy,Bari,4h 45m,1 stop,13:00,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+41,Italy,Bari,4h 45m,1 stop,13:00,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€302
+42,Italy,Bari,6h 45m,1 stop,08:10,15:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€251
+43,Italy,Bari,7h 15m,2 stops,10:30,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+44,Italy,Bari,7h 30m,1 stop,13:00,21:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+45,Italy,Bari,7h 30m,1 stop,13:00,21:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€314
+46,Italy,Bari,8h 20m,2 stops,14:10,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+47,Italy,Bari,4h 45m,1 stop,13:00,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€406
+48,Italy,Bari,8h 55m,1 stop,13:00,22:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€298
+49,Italy,Bari,9h 30m,1 stop,13:00,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€283
+50,Italy,Bari,8h 55m,1 stop,13:00,22:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€302
+51,Italy,Bari,9h 5m,2 stops,13:25,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+52,Italy,Bari,11h 25m,2 stops,06:20,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€226
+53,Italy,Bari,7h 15m,2 stops,10:30,18:45,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€339
+54,Italy,Bari,9h 5m,2 stops,12:50,22:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€293
+55,Italy,Bari,11h 25m,2 stops,10:30,22:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+56,Italy,Bari,11h 25m,2 stops,10:30,22:55,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+57,Italy,Bari,10h 10m,2 stops,12:20,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+58,Italy,Bari,9h 30m,1 stop,13:00,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€316
+59,Italy,Bari,10h 10m,2 stops,12:20,23:30,BRI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+60,Italy,Bologna,2h 5m,Direct,12:50,15:55,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€166
+61,Italy,Bologna,2h 5m,Direct,12:50,15:55,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€210
+62,Italy,Bologna,6h 20m,1 stop,02:25,09:45,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€166
+63,Italy,Bologna,4h 55m,1 stop,13:00,18:55,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+64,Italy,Bologna,5h 55m,1 stop,16:35,23:30,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€251
+65,Italy,Bologna,4h 55m,1 stop,13:00,18:55,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+66,Italy,Bologna,10h 15m,1 stop,01:10,12:25,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€132
+67,Italy,Bologna,7h 25m,2 stops,10:30,18:55,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€253
+68,Italy,Bologna,8h 50m,1 stop,13:00,22:50,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+69,Italy,Bologna,9h 15m,2 stops,02:25,12:40,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€236
+70,Italy,Bologna,12h 40m,1 stop,19:15,08:55+1,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€155
+71,Italy,Bologna,6h 35m,1 stop,16:05,23:40,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€343
+72,Italy,Bologna,9h ,2 stops,11:30,21:30,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€258
+73,Italy,Bologna,8h 40m,2 stops,13:20,23:00,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€270
+74,Italy,Bologna,9h 30m,2 stops,11:00,21:30,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€247
+75,Italy,Bologna,8h 50m,1 stop,13:00,22:50,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€299
+76,Italy,Bologna,9h 30m,1 stop,11:00,21:30,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+77,Italy,Bologna,7h 35m,2 stops,14:15,22:50,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€329
+78,Italy,Bologna,9h 15m,2 stops,02:25,12:40,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€283
+79,Italy,Bologna,8h 40m,2 stops,13:20,23:00,BLQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€302
+80,Italy,Bolzano,9h 50m,2 stops,02:25,13:15,BZO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",
+81,Italy,Bolzano,12h 45m,2 stops,08:10,21:55,BZO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",
+82,Italy,Bolzano,9h 25m,2 stops,11:30,21:55,BZO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",
+83,Italy,Brindisi,11h 20m,2 stops,10:30,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+84,Italy,Brindisi,11h 20m,2 stops,10:30,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+85,Italy,Brindisi,8h 50m,1 stop,13:00,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€286
+86,Italy,Brindisi,8h 50m,1 stop,13:00,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+87,Italy,Brindisi,9h 40m,1 stop,13:00,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€282
+88,Italy,Brindisi,8h 30m,2 stops,14:10,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+89,Italy,Brindisi,9h 15m,2 stops,13:25,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+90,Italy,Brindisi,9h ,2 stops,12:50,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€293
+91,Italy,Brindisi,10h 20m,2 stops,12:20,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+92,Italy,Brindisi,10h 20m,2 stops,12:20,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+93,Italy,Brindisi,15h 30m,2 stops,06:20,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€210
+94,Italy,Brindisi,16h 15m,2 stops,18:15,11:30+1,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€202
+95,Italy,Brindisi,9h 40m,1 stop,13:00,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€315
+96,Italy,Brindisi,9h 40m,2 stops,13:00,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€321
+97,Italy,Brindisi,9h 40m,2 stops,13:00,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€321
+98,Italy,Brindisi,9h 40m,2 stops,13:00,23:40,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€321
+99,Italy,Brindisi,15h 15m,2 stops,19:15,11:30+1,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€247
+100,Italy,Brindisi,8h 55m,2 stops,12:55,22:50,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€344
+101,Italy,Brindisi,12h 45m,2 stops,02:25,16:10,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€291
+102,Italy,Brindisi,15h 15m,2 stops,19:15,11:30+1,BDS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€262
+103,Italy,Cagliari,6h 35m,1 stop,13:00,20:35,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€257
+104,Italy,Cagliari,7h 50m,1 stop,13:00,21:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€257
+105,Italy,Cagliari,9h 5m,2 stops,10:30,20:35,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+106,Italy,Cagliari,10h 10m,2 stops,11:00,22:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€212
+107,Italy,Cagliari,9h 40m,2 stops,11:30,22:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€223
+108,Italy,Cagliari,6h 35m,1 stop,13:00,20:35,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€309
+109,Italy,Cagliari,10h 10m,1 stop,11:00,22:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€245
+110,Italy,Cagliari,7h 50m,1 stop,13:00,21:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€293
+111,Italy,Cagliari,10h 20m,2 stops,10:30,21:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+112,Italy,Cagliari,8h ,2 stops,14:10,23:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+113,Italy,Cagliari,8h 50m,1 stop,13:00,22:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€293
+114,Italy,Cagliari,11h 20m,2 stops,10:30,22:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+115,Italy,Cagliari,8h 45m,2 stops,13:25,23:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+116,Italy,Cagliari,8h 30m,2 stops,14:10,23:40,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+117,Italy,Cagliari,9h 15m,2 stops,13:25,23:40,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+118,Italy,Cagliari,11h 20m,2 stops,10:30,22:50,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€248
+119,Italy,Cagliari,9h 50m,2 stops,12:20,23:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+120,Italy,Cagliari,9h 50m,2 stops,12:20,23:10,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+121,Italy,Cagliari,10h 20m,2 stops,12:20,23:40,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+122,Italy,Cagliari,10h 20m,2 stops,12:20,23:40,CAG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+123,Italy,Catania,4h 30m,1 stop,13:00,18:30,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+124,Italy,Catania,5h 50m,1 stop,12:50,19:40,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€270
+125,Italy,Catania,6h 20m,1 stop,13:00,20:20,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€264
+126,Italy,Catania,7h ,2 stops,10:30,18:30,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€253
+127,Italy,Catania,6h 20m,1 stop,13:00,20:20,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€293
+128,Italy,Catania,8h 50m,2 stops,10:30,20:20,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+129,Italy,Catania,8h 45m,1 stop,13:00,22:45,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€252
+130,Italy,Catania,6h 5m,1 stop,13:00,20:05,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€326
+131,Italy,Catania,8h 10m,1 stop,13:00,22:10,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+132,Italy,Catania,8h 50m,1 stop,13:00,22:50,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€276
+133,Italy,Catania,8h 25m,2 stops,14:10,23:35,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€286
+134,Italy,Catania,9h ,2 stops,12:50,22:50,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€277
+135,Italy,Catania,6h 5m,1 stop,13:00,20:05,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€360
+136,Italy,Catania,13h ,2 stops,06:20,20:20,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€188
+137,Italy,Catania,8h 50m,1 stop,13:00,22:50,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€298
+138,Italy,Catania,11h 10m,2 stops,06:20,18:30,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€234
+139,Italy,Catania,8h 10m,1 stop,13:00,22:10,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€318
+140,Italy,Catania,9h 10m,2 stops,13:25,23:35,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€281
+141,Italy,Catania,5h 50m,1 stop,12:50,19:40,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€372
+142,Italy,Catania,11h 20m,2 stops,10:30,22:50,CTA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+143,Italy,Comiso,17h 35m,2 stops,02:25,21:00,CIY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€272
+144,Italy,Comiso,18h 50m,2 stops,01:10,21:00,CIY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€413
+145,Italy,Comiso,18h 50m,2 stops,01:10,21:00,CIY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€413
+146,Italy,Comiso,17h 35m,3 stops,02:25,21:00,CIY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€453
+147,Italy,Comiso,17h 35m,3 stops,02:25,21:00,CIY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€453
+148,Italy,Crotone,,XXXX,,,,,
+149,Italy,Crotone,,XXXX,,,,,
+150,Italy,Crotone,,XXXX,,,,,
+151,Italy,Crotone,,XXXX,,,,,
+152,Italy,Crotone,,XXXX,,,,,
+153,Italy,Crotone,,XXXX,,,,,
+154,Italy,Crotone,,XXXX,,,,,
+155,Italy,Crotone,,XXXX,,,,,
+156,Italy,Crotone,,XXXX,,,,,
+157,Italy,Crotone,,XXXX,,,,,
+158,Italy,Crotone,,XXXX,,,,,
+159,Italy,Crotone,,XXXX,,,,,
+160,Italy,Crotone,,XXXX,,,,,
+161,Italy,Crotone,,XXXX,,,,,
+162,Italy,Crotone,,XXXX,,,,,
+163,Italy,Crotone,,XXXX,,,,,
+164,Italy,Crotone,,XXXX,,,,,
+165,Italy,Crotone,,XXXX,,,,,
+166,Italy,Crotone,,XXXX,,,,,
+167,Italy,Crotone,,XXXX,,,,,
+168,Italy,Florence,5h 15m,1 stop,16:35,22:50,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€205
+169,Italy,Florence,4h 20m,1 stop,13:00,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+170,Italy,Florence,6h 50m,2 stops,10:30,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€254
+171,Italy,Florence,11h ,2 stops,06:20,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€191
+172,Italy,Florence,8h 30m,1 stop,14:10,23:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€271
+173,Italy,Florence,9h 15m,1 stop,13:25,23:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€265
+174,Italy,Florence,12h 50m,1 stop,19:15,09:05+1,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€205
+175,Italy,Florence,4h 20m,1 stop,13:00,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€377
+176,Italy,Florence,4h 20m,1 stop,13:00,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€377
+177,Italy,Florence,8h 40m,1 stop,13:00,22:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€297
+178,Italy,Florence,10h 20m,1 stop,12:20,23:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€265
+179,Italy,Florence,8h 40m,1 stop,13:00,22:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€299
+180,Italy,Florence,7h 25m,2 stops,14:15,22:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€317
+181,Italy,Florence,11h 10m,2 stops,10:30,22:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€254
+182,Italy,Florence,11h 10m,2 stops,10:30,22:40,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€254
+183,Italy,Florence,11h ,2 stops,06:20,18:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€260
+184,Italy,Florence,6h 10m,1 stop,02:25,09:35,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€376
+185,Italy,Florence,6h 10m,1 stop,02:25,09:35,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€380
+186,Italy,Florence,10h 50m,3 stops,10:30,22:20,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€267
+187,Italy,Florence,8h 15m,2 stops,13:20,22:35,FLR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€334
+188,Italy,Forlì,,XXXX,,,,,
+189,Italy,Forlì,,XXXX,,,,,
+190,Italy,Forlì,,XXXX,,,,,
+191,Italy,Forlì,,XXXX,,,,,
+192,Italy,Forlì,,XXXX,,,,,
+193,Italy,Forlì,,XXXX,,,,,
+194,Italy,Forlì,,XXXX,,,,,
+195,Italy,Forlì,,XXXX,,,,,
+196,Italy,Forlì,,XXXX,,,,,
+197,Italy,Forlì,,XXXX,,,,,
+198,Italy,Forlì,,XXXX,,,,,
+199,Italy,Forlì,,XXXX,,,,,
+200,Italy,Forlì,,XXXX,,,,,
+201,Italy,Forlì,,XXXX,,,,,
+202,Italy,Forlì,,XXXX,,,,,
+203,Italy,Forlì,,XXXX,,,,,
+204,Italy,Forlì,,XXXX,,,,,
+205,Italy,Forlì,,XXXX,,,,,
+206,Italy,Forlì,,XXXX,,,,,
+207,Italy,Forlì,,XXXX,,,,,
+208,Italy,Genoa,,XXXX,,,,,
+209,Italy,Genoa,,XXXX,,,,,
+210,Italy,Genoa,,XXXX,,,,,
+211,Italy,Genoa,,XXXX,,,,,
+212,Italy,Genoa,,XXXX,,,,,
+213,Italy,Genoa,,XXXX,,,,,
+214,Italy,Genoa,,XXXX,,,,,
+215,Italy,Genoa,,XXXX,,,,,
+216,Italy,Genoa,,XXXX,,,,,
+217,Italy,Genoa,,XXXX,,,,,
+218,Italy,Genoa,,XXXX,,,,,
+219,Italy,Genoa,,XXXX,,,,,
+220,Italy,Genoa,,XXXX,,,,,
+221,Italy,Genoa,,XXXX,,,,,
+222,Italy,Genoa,,XXXX,,,,,
+223,Italy,Genoa,,XXXX,,,,,
+224,Italy,Genoa,,XXXX,,,,,
+225,Italy,Genoa,,XXXX,,,,,
+226,Italy,Genoa,,XXXX,,,,,
+227,Italy,Genoa,,XXXX,,,,,
+228,Italy,Lamezia Terme,4h 30m,1 stop,13:00,18:30,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+229,Italy,Lamezia Terme,7h ,2 stops,10:30,18:30,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+230,Italy,Lamezia Terme,6h 5m,1 stop,13:00,20:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€306
+231,Italy,Lamezia Terme,6h 5m,1 stop,13:00,20:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€339
+232,Italy,Lamezia Terme,9h 5m,1 stop,13:00,23:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€269
+233,Italy,Lamezia Terme,4h 30m,1 stop,13:00,18:30,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€406
+234,Italy,Lamezia Terme,4h 30m,1 stop,13:00,18:30,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€406
+235,Italy,Lamezia Terme,8h 30m,2 stops,14:10,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+236,Italy,Lamezia Terme,7h ,2 stops,10:30,18:30,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€334
+237,Italy,Lamezia Terme,9h 5m,1 stop,13:00,23:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€296
+238,Italy,Lamezia Terme,9h 40m,1 stop,13:00,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€285
+239,Italy,Lamezia Terme,9h 15m,2 stops,13:25,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+240,Italy,Lamezia Terme,8h 5m,2 stops,11:00,20:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€324
+241,Italy,Lamezia Terme,9h 15m,2 stops,12:50,23:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€293
+242,Italy,Lamezia Terme,11h 35m,2 stops,10:30,23:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+243,Italy,Lamezia Terme,11h 35m,2 stops,10:30,23:05,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€227
+244,Italy,Lamezia Terme,10h 20m,2 stops,12:20,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€279
+245,Italy,Lamezia Terme,10h 20m,2 stops,12:20,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+246,Italy,Lamezia Terme,9h 40m,1 stop,13:00,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€318
+247,Italy,Lamezia Terme,9h 40m,2 stops,13:00,23:40,SUF,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€321
+248,Italy,Lampedusa,9h 30m,3 stops,10:30,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€324
+249,Italy,Lampedusa,7h ,2 stops,13:00,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€431
+250,Italy,Lampedusa,11h 50m,2 stops,08:10,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€372
+251,Italy,Lampedusa,9h 30m,3 stops,10:30,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€432
+252,Italy,Lampedusa,7h ,2 stops,13:00,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€558
+253,Italy,Lampedusa,7h ,2 stops,13:00,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€558
+254,Italy,Lampedusa,19h 45m,2 stops,13:00,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€382
+255,Italy,Lampedusa,19h 55m,3 stops,12:50,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€369
+256,Italy,Lampedusa,22h 15m,3 stops,10:30,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€308
+257,Italy,Lampedusa,17h 35m,4 stops,02:25,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€423
+258,Italy,Lampedusa,18h 35m,3 stops,14:10,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€416
+259,Italy,Lampedusa,22h 15m,3 stops,10:30,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€324
+260,Italy,Lampedusa,19h 45m,2 stops,13:00,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€415
+261,Italy,Lampedusa,19h 20m,3 stops,13:25,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€411
+262,Italy,Lampedusa,17h 35m,4 stops,02:25,21:00,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€444
+263,Italy,Lampedusa,19h 45m,2 stops,13:00,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€431
+264,Italy,Lampedusa,20h 25m,3 stops,12:20,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€410
+265,Italy,Lampedusa,19h 50m,3 stops,12:55,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€433
+266,Italy,Lampedusa,19h 55m,3 stops,12:50,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€472
+267,Italy,Lampedusa,22h 15m,3 stops,10:30,09:45+1,LMP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€416
+268,Italy,Milan,3h 10m,Direct,17:35,21:45,BGY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€83
+269,Italy,Milan,2h 5m,Direct,13:00,16:05,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€158
+270,Italy,Milan,2h 5m,Direct,13:00,16:05,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€188
+271,Italy,Milan,5h 25m,1 stop,16:35,23:00,LIN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€116
+272,Italy,Milan,5h 10m,1 stop,02:25,08:35,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€144
+273,Italy,Milan,6h 35m,1 stop,02:25,10:00,LIN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€144
+274,Italy,Milan,6h 55m,1 stop,02:25,10:20,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€144
+275,Italy,Milan,4h 35m,1 stop,11:00,16:35,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€206
+276,Italy,Milan,5h 15m,1 stop,16:35,22:50,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€200
+277,Italy,Milan,5h 55m,1 stop,16:35,23:30,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€194
+278,Italy,Milan,6h 35m,1 stop,02:25,10:00,LIN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€190
+279,Italy,Milan,5h 20m,1 stop,13:25,19:45,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€223
+280,Italy,Milan,5h 20m,1 stop,10:05,16:25,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€225
+281,Italy,Milan,6h 5m,1 stop,12:20,19:25,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€207
+282,Italy,Milan,5h 45m,1 stop,13:25,20:10,LIN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€218
+283,Italy,Milan,6h 25m,1 stop,13:25,20:50,BGY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€207
+284,Italy,Milan,5h 45m,1 stop,08:10,14:55,LIN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€234
+285,Italy,Milan,11h ,1 stop,11:30,23:30,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€101
+286,Italy,Milan,4h 40m,1 stop,11:00,16:40,MXP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+287,Italy,Milan,9h 25m,1 stop,01:10,11:35,BGY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€143
+288,Italy,Naples,4h 50m,1 stop,13:35,19:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€253
+289,Italy,Naples,5h ,1 stop,13:00,19:00,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€268
+290,Italy,Naples,5h 35m,1 stop,16:05,22:40,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€268
+291,Italy,Naples,5h ,1 stop,13:00,19:00,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+292,Italy,Naples,7h 30m,2 stops,10:30,19:00,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€217
+293,Italy,Naples,5h 50m,1 stop,13:00,19:50,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€275
+294,Italy,Naples,9h 55m,1 stop,10:30,21:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€193
+295,Italy,Naples,7h 45m,1 stop,13:25,22:10,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+296,Italy,Naples,5h 50m,1 stop,13:00,19:50,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€308
+297,Italy,Naples,7h 40m,1 stop,13:00,21:40,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€276
+298,Italy,Naples,8h 40m,1 stop,02:35,12:15,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€254
+299,Italy,Naples,8h 25m,1 stop,13:00,22:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€268
+300,Italy,Naples,8h 50m,1 stop,12:20,22:10,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+301,Italy,Naples,8h 20m,2 stops,10:05,19:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€265
+302,Italy,Naples,9h 10m,1 stop,08:10,18:20,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€262
+303,Italy,Naples,8h 15m,1 stop,13:25,22:40,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€284
+304,Italy,Naples,8h 15m,1 stop,12:40,21:55,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€286
+305,Italy,Naples,10h 55m,2 stops,10:30,22:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€217
+306,Italy,Naples,8h 25m,1 stop,13:00,22:25,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€289
+307,Italy,Naples,7h 40m,1 stop,13:00,21:40,NAP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€309
+308,Italy,Olbia,4h 20m,1 stop,13:00,18:20,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€277
+309,Italy,Olbia,8h 10m,1 stop,12:50,22:00,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€225
+310,Italy,Olbia,8h 15m,1 stop,13:00,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€238
+311,Italy,Olbia,8h 15m,1 stop,13:00,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€263
+312,Italy,Olbia,8h 15m,1 stop,13:00,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€296
+313,Italy,Olbia,8h 10m,1 stop,12:50,22:00,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€327
+314,Italy,Olbia,8h 55m,2 stops,12:20,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€307
+315,Italy,Olbia,8h 55m,2 stops,12:20,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€314
+316,Italy,Olbia,8h 15m,1 stop,13:00,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€361
+317,Italy,Olbia,11h 50m,2 stops,02:25,15:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€275
+318,Italy,Olbia,11h ,2 stops,06:20,18:20,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€303
+319,Italy,Olbia,13h 5m,2 stops,08:10,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€281
+320,Italy,Olbia,14h 45m,2 stops,16:35,08:20+1,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€254
+321,Italy,Olbia,14h 45m,2 stops,16:35,08:20+1,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€260
+322,Italy,Olbia,18h 20m,2 stops,23:00,18:20+1,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€175
+323,Italy,Olbia,11h ,2 stops,06:20,18:20,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€367
+324,Italy,Olbia,13h 5m,2 stops,08:10,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€314
+325,Italy,Olbia,13h 5m,2 stops,08:10,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€318
+326,Italy,Olbia,19h 30m,2 stops,21:50,18:20+1,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€175
+327,Italy,Olbia,14h 55m,2 stops,06:20,22:15,OLB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€307
+328,Italy,Palermo,4h 20m,1 stop,13:00,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+329,Italy,Palermo,6h 50m,2 stops,10:30,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+330,Italy,Palermo,5h 45m,1 stop,13:00,19:45,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€316
+331,Italy,Palermo,8h 40m,1 stop,13:00,22:40,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€247
+332,Italy,Palermo,5h 45m,1 stop,13:00,19:45,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€349
+333,Italy,Palermo,8h 55m,1 stop,13:00,22:55,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€269
+334,Italy,Palermo,8h 10m,1 stop,13:00,22:10,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€289
+335,Italy,Palermo,4h 20m,1 stop,13:00,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€406
+336,Italy,Palermo,4h 20m,1 stop,13:00,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€406
+337,Italy,Palermo,9h 10m,1 stop,08:10,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€280
+338,Italy,Palermo,8h 55m,1 stop,13:00,22:55,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€296
+339,Italy,Palermo,9h 5m,2 stops,12:50,22:55,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€277
+340,Italy,Palermo,11h ,2 stops,06:20,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€226
+341,Italy,Palermo,11h 25m,2 stops,10:30,22:55,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€216
+342,Italy,Palermo,6h 50m,2 stops,10:30,18:20,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€339
+343,Italy,Palermo,8h 10m,1 stop,13:00,22:10,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€322
+344,Italy,Palermo,11h 25m,2 stops,10:30,22:55,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€232
+345,Italy,Palermo,7h 45m,2 stops,11:00,19:45,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€335
+346,Italy,Palermo,8h 30m,2 stops,14:10,23:40,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€324
+347,Italy,Palermo,9h 40m,1 stop,13:00,23:40,PMO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€312
+348,Italy,Pantelleria,9h 5m,3 stops,10:30,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€315
+349,Italy,Pantelleria,11h 25m,2 stops,08:10,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€363
+350,Italy,Pantelleria,9h 5m,3 stops,10:30,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€423
+351,Italy,Pantelleria,14h 15m,3 stops,02:35,17:50,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€431
+352,Italy,Pantelleria,18h 30m,3 stops,16:35,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€347
+353,Italy,Pantelleria,18h 30m,3 stops,16:35,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€358
+354,Italy,Pantelleria,22h 35m,3 stops,18:15,17:50+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€285
+355,Italy,Pantelleria,22h 35m,3 stops,18:15,17:50+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€285
+356,Italy,Pantelleria,23h 35m,3 stops,11:30,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€291
+357,Italy,Pantelleria,17h 10m,4 stops,02:25,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€406
+358,Italy,Pantelleria,17h ,3 stops,02:35,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€431
+359,Italy,Pantelleria,17h 10m,4 stops,02:25,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€414
+360,Italy,Pantelleria,20h 55m,3 stops,14:10,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€368
+361,Italy,Pantelleria,20h 55m,3 stops,14:10,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€368
+362,Italy,Pantelleria,18h 30m,4 stops,16:35,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€400
+363,Italy,Pantelleria,17h 10m,4 stops,02:25,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€429
+364,Italy,Pantelleria,17h 10m,4 stops,02:25,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€435
+365,Italy,Pantelleria,11h 25m,3 stops,08:10,20:35,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€572
+366,Italy,Pantelleria,24h 35m,3 stops,10:30,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€315
+367,Italy,Pantelleria,24h 35m,3 stops,10:30,12:05+1,PNL,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€315
+368,Italy,Pescara,24h 35m,2 stops,11:00,12:35+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€261
+369,Italy,Pescara,26h 30m,2 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€291
+370,Italy,Pescara,26h 30m,2 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€299
+371,Italy,Pescara,27h 30m,3 stops,10:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€281
+372,Italy,Pescara,19h 45m,2 stops,18:15,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€366
+373,Italy,Pescara,26h 30m,3 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€296
+374,Italy,Pescara,26h 30m,3 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€296
+375,Italy,Pescara,26h 30m,3 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€301
+376,Italy,Pescara,21h 55m,2 stops,16:05,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€365
+377,Italy,Pescara,21h 25m,3 stops,16:35,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€365
+378,Italy,Pescara,24h 35m,3 stops,11:00,12:35+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€339
+379,Italy,Pescara,25h ,2 stops,13:00,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€356
+380,Italy,Pescara,24h 35m,3 stops,11:00,12:35+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€358
+381,Italy,Pescara,25h ,2 stops,13:00,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€378
+382,Italy,Pescara,26h 30m,3 stops,11:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€359
+383,Italy,Pescara,25h ,2 stops,13:00,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€389
+384,Italy,Pescara,29h 50m,2 stops,08:10,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€358
+385,Italy,Pescara,24h 35m,3 stops,11:00,12:35+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€395
+386,Italy,Pescara,27h 30m,3 stops,10:30,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€388
+387,Italy,Pescara,35h 35m,3 stops,02:25,15:00+1,PSR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€365
+388,Italy,Pisa,5h 40m,1 stop,13:25,20:05,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€256
+389,Italy,Pisa,10h 55m,1 stop,08:10,20:05,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€267
+390,Italy,Pisa,10h 35m,2 stops,06:20,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€336
+391,Italy,Pisa,10h 35m,2 stops,06:20,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€357
+392,Italy,Pisa,10h 50m,2 stops,02:25,14:15,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€404
+393,Italy,Pisa,10h 55m,1 stop,08:10,20:05,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€437
+394,Italy,Pisa,16h 35m,2 stops,02:25,20:00,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€313
+395,Italy,Pisa,16h 40m,2 stops,02:25,20:05,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€312
+396,Italy,Pisa,14h 30m,1 stop,02:25,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€402
+397,Italy,Pisa,14h 30m,1 stop,02:25,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€408
+398,Italy,Pisa,13h 30m,2 stops,01:10,15:40,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€424
+399,Italy,Pisa,15h 45m,3 stops,01:10,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€414
+400,Italy,Pisa,15h 45m,3 stops,01:10,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€434
+401,Italy,Pisa,24h 25m,2 stops,19:15,20:40+1,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€265
+402,Italy,Pisa,16h 30m,2 stops,02:35,20:05,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€455
+403,Italy,Pisa,17h 35m,2 stops,19:15,13:50+1,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€436
+404,Italy,Pisa,14h 20m,2 stops,02:35,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€534
+405,Italy,Pisa,17h 35m,2 stops,19:15,13:50+1,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€468
+406,Italy,Pisa,14h 20m,2 stops,02:35,17:55,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€546
+407,Italy,Pisa,17h 50m,2 stops,19:00,13:50+1,PSA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€469
+408,Italy,Reggio Calabria,8h 50m,1 stop,13:00,22:50,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€287
+409,Italy,Reggio Calabria,8h 50m,1 stop,13:00,22:50,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€410
+410,Italy,Reggio Calabria,8h 50m,1 stop,13:00,22:50,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€423
+411,Italy,Reggio Calabria,17h 5m,2 stops,16:35,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€303
+412,Italy,Reggio Calabria,20h 40m,2 stops,13:00,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€272
+413,Italy,Reggio Calabria,19h 50m,2 stops,19:15,16:05+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€303
+414,Italy,Reggio Calabria,19h 50m,2 stops,19:15,16:05+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€303
+415,Italy,Reggio Calabria,12h 40m,2 stops,02:25,16:05,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€451
+416,Italy,Reggio Calabria,12h 40m,2 stops,02:25,16:05,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€451
+417,Italy,Reggio Calabria,12h 40m,2 stops,02:25,16:05,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€451
+418,Italy,Reggio Calabria,12h 40m,2 stops,02:25,16:05,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€451
+419,Italy,Reggio Calabria,20h 40m,2 stops,13:00,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€310
+420,Italy,Reggio Calabria,20h 40m,2 stops,13:00,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€310
+421,Italy,Reggio Calabria,20h 40m,2 stops,13:00,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€310
+422,Italy,Reggio Calabria,20h 40m,2 stops,13:00,10:40+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€321
+423,Italy,Reggio Calabria,22h 30m,2 stops,16:35,16:05+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€303
+424,Italy,Reggio Calabria,22h 30m,2 stops,16:35,16:05+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€303
+425,Italy,Reggio Calabria,22h 30m,2 stops,16:35,16:05+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€304
+426,Italy,Reggio Calabria,24h 35m,1 stop,13:00,14:35+1,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€312
+427,Italy,Reggio Calabria,11h 10m,2 stops,02:25,14:35,REG,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€554
+428,Italy,Rimini,18h 55m,2 stops,16:05,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€205
+429,Italy,Rimini,24h ,2 stops,11:00,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€289
+430,Italy,Rimini,21h 25m,2 stops,13:35,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€321
+431,Italy,Rimini,32h 35m,2 stops,02:25,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€307
+432,Italy,Rimini,28h 40m,3 stops,06:20,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€329
+433,Italy,Rimini,28h 40m,3 stops,06:20,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€332
+434,Italy,Rimini,24h ,3 stops,11:00,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€366
+435,Italy,Rimini,28h 40m,3 stops,06:20,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€335
+436,Italy,Rimini,24h ,3 stops,11:00,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€386
+437,Italy,Rimini,24h ,3 stops,11:00,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€405
+438,Italy,Rimini,23h 30m,3 stops,11:30,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€443
+439,Italy,Rimini,23h 30m,3 stops,11:30,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€443
+440,Italy,Rimini,26h 50m,3 stops,08:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€442
+441,Italy,Rimini,33h 50m,3 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€396
+442,Italy,Rimini,21h 25m,3 stops,13:35,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€492
+443,Italy,Rimini,33h 50m,4 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€405
+444,Italy,Rimini,33h 50m,4 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€406
+445,Italy,Rimini,33h 50m,4 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€406
+446,Italy,Rimini,33h 50m,4 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€409
+447,Italy,Rimini,33h 50m,4 stops,01:10,12:00+1,RMI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€410
+448,Italy,Rome,2h 10m,Direct,13:00,16:10,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€163
+449,Italy,Rome,2h 10m,Direct,13:00,16:10,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€239
+450,Italy,Rome,5h ,1 stop,10:30,16:30,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€214
+451,Italy,Rome,5h 30m,1 stop,12:20,18:50,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€268
+452,Italy,Rome,5h 45m,1 stop,02:35,09:20,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png",€267
+453,Italy,Rome,5h ,1 stop,14:40,20:40,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€302
+454,Italy,Rome,5h 5m,1 stop,13:35,19:40,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/42.png",€301
+455,Italy,Rome,6h 20m,1 stop,12:20,19:40,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€261
+456,Italy,Rome,7h 45m,1 stop,10:05,18:50,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€212
+457,Italy,Rome,6h ,1 stop,12:20,19:20,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€284
+458,Italy,Rome,5h 15m,1 stop,14:15,20:30,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€317
+459,Italy,Rome,6h 50m,1 stop,12:50,20:40,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€258
+460,Italy,Rome,6h 15m,1 stop,11:30,18:45,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€324
+461,Italy,Rome,9h 10m,1 stop,10:30,20:40,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€214
+462,Italy,Rome,7h 55m,1 stop,08:10,17:05,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€269
+463,Italy,Rome,8h 15m,1 stop,06:20,15:35,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€264
+464,Italy,Rome,9h ,1 stop,08:10,18:10,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€236
+465,Italy,Rome,8h 10m,1 stop,13:00,22:10,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€279
+466,Italy,Rome,9h 15m,1 stop,01:10,11:25,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€245
+467,Italy,Rome,8h 15m,2 stops,11:30,20:45,FCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€266
+468,Italy,Trapani,,XXXX,,,,,
+469,Italy,Trapani,,XXXX,,,,,
+470,Italy,Trapani,,XXXX,,,,,
+471,Italy,Trapani,,XXXX,,,,,
+472,Italy,Trapani,,XXXX,,,,,
+473,Italy,Trapani,,XXXX,,,,,
+474,Italy,Trapani,,XXXX,,,,,
+475,Italy,Trapani,,XXXX,,,,,
+476,Italy,Trapani,,XXXX,,,,,
+477,Italy,Trapani,,XXXX,,,,,
+478,Italy,Trapani,,XXXX,,,,,
+479,Italy,Trapani,,XXXX,,,,,
+480,Italy,Trapani,,XXXX,,,,,
+481,Italy,Trapani,,XXXX,,,,,
+482,Italy,Trapani,,XXXX,,,,,
+483,Italy,Trapani,,XXXX,,,,,
+484,Italy,Trapani,,XXXX,,,,,
+485,Italy,Trapani,,XXXX,,,,,
+486,Italy,Trapani,,XXXX,,,,,
+487,Italy,Trapani,,XXXX,,,,,

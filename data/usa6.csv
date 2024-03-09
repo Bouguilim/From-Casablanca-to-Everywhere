@@ -1,0 +1,121 @@
+,country,city,duration,trajectory,departure_time,arrival_time,airport_id,airline,price
+0,United States,Nashville,12h 21m,1 stop,15:50,23:11,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€716
+1,United States,Nashville,25h 25m,2 stops,02:25,22:50,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€472
+2,United States,Nashville,25h 25m,2 stops,02:25,22:50,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€495
+3,United States,Nashville,20h 58m,1 stop,16:10,08:08+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€655
+4,United States,Nashville,28h 44m,2 stops,09:35,09:19+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€493
+5,United States,Nashville,25h 17m,2 stops,12:20,08:37+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€593
+6,United States,Nashville,25h 17m,2 stops,12:20,08:37+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€597
+7,United States,Nashville,28h 44m,2 stops,09:35,09:19+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€540
+8,United States,Nashville,27h ,3 stops,02:25,00:25+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€561
+9,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€583
+10,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€583
+11,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€583
+12,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€583
+13,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€584
+14,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€584
+15,United States,Nashville,28h 39m,2 stops,09:35,09:14+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€584
+16,United States,Nashville,26h 7m,3 stops,11:30,08:37+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/802.png",€601
+17,United States,Nashville,35h 54m,2 stops,02:25,09:19+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€426
+18,United States,Nashville,12h 57m,1 stop,16:05,00:02+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€987
+19,United States,Nashville,28h 40m,2 stops,09:35,09:15+1,BNA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€606
+20,United States,New Orleans,12h 49m,1 stop,16:05,23:54,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€908
+21,United States,New Orleans,20h 50m,2 stops,09:35,01:25+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€667
+22,United States,New Orleans,26h 37m,3 stops,02:25,00:02+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€547
+23,United States,New Orleans,26h 37m,3 stops,02:25,00:02+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€547
+24,United States,New Orleans,26h 37m,3 stops,02:25,00:02+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€547
+25,United States,New Orleans,21h 30m,2 stops,16:10,08:40+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€822
+26,United States,New Orleans,19h 27m,3 stops,09:35,00:02+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€858
+27,United States,New Orleans,25h 44m,4 stops,02:25,23:09,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€764
+28,United States,New Orleans,35h 15m,3 stops,02:25,08:40+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€654
+29,United States,New Orleans,35h 15m,3 stops,02:25,08:40+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€654
+30,United States,New Orleans,28h 5m,3 stops,09:35,08:40+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€943
+31,United States,New Orleans,26h 10m,3 stops,11:30,08:40+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png","€1,034"
+32,United States,New Orleans,18h 4m,2 stops,09:35,22:39,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png","€1,453"
+33,United States,New Orleans,18h 4m,2 stops,09:35,22:39,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png","€1,471"
+34,United States,New Orleans,20h 52m,3 stops,08:10,00:02+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,358"
+35,United States,New Orleans,20h 20m,2 stops,08:10,23:30,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,465"
+36,United States,New Orleans,20h 20m,2 stops,08:10,23:30,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,469"
+37,United States,New Orleans,20h 20m,2 stops,08:10,23:30,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,482"
+38,United States,New Orleans,20h 20m,2 stops,08:10,23:30,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,487"
+39,United States,New Orleans,31h 52m,3 stops,09:35,12:27+1,MSY,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png","€1,190"
+40,United States,New York City,12h 40m,1 stop,12:20,21:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€436
+41,United States,New York City,12h 40m,1 stop,12:20,21:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€440
+42,United States,New York City,7h 5m,Direct,15:50,18:55,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€715
+43,United States,New York City,13h 35m,1 stop,11:30,21:05,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€439
+44,United States,New York City,7h 5m,Direct,15:50,18:55,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/27.png",€762
+45,United States,New York City,13h 15m,2 stops,11:30,20:45,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€422
+46,United States,New York City,11h 15m,1 stop,09:35,16:50,LGA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€559
+47,United States,New York City,13h 33m,1 stop,09:35,19:08,LGA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€494
+48,United States,New York City,13h 15m,2 stops,11:30,20:45,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/802.png",€442
+49,United States,New York City,11h 15m,1 stop,09:35,16:50,LGA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€579
+50,United States,New York City,11h 25m,1 stop,09:35,17:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€579
+51,United States,New York City,16h 15m,1 stop,02:25,14:40,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€418
+52,United States,New York City,16h 15m,1 stop,02:25,14:40,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€421
+53,United States,New York City,7h 5m,Direct,15:50,18:55,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/87.png",€802
+54,United States,New York City,11h 25m,1 stop,09:35,17:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€594
+55,United States,New York City,14h 43m,1 stop,09:35,20:18,LGA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€510
+56,United States,New York City,16h 50m,1 stop,08:10,21:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€459
+57,United States,New York City,16h 50m,1 stop,08:10,21:00,EWR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€463
+58,United States,New York City,13h 33m,1 stop,09:35,19:08,LGA,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€579
+59,United States,New York City,15h 7m,1 stop,09:35,20:42,JFK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€532
+60,United States,North Bend,53h 12m,2 stops,15:05,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,831"
+61,United States,North Bend,52h 7m,2 stops,16:10,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,977"
+62,United States,North Bend,52h 27m,2 stops,15:50,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€2,196"
+63,United States,North Bend,52h 27m,2 stops,15:50,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€2,243"
+64,United States,North Bend,52h 27m,2 stops,15:50,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€2,323"
+65,United States,North Bend,49h 47m,2 stops,18:30,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,772"
+66,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,746"
+67,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,746"
+68,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,748"
+69,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,748"
+70,United States,North Bend,54h 7m,2 stops,14:10,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,782"
+71,United States,North Bend,55h 22m,2 stops,12:55,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,765"
+72,United States,North Bend,55h 22m,2 stops,12:55,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,765"
+73,United States,North Bend,54h 52m,2 stops,13:25,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,782"
+74,United States,North Bend,49h 47m,2 stops,18:30,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,920"
+75,United States,North Bend,55h 57m,2 stops,12:20,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,782"
+76,United States,North Bend,60h 7m,2 stops,08:10,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,782"
+77,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,987"
+78,United States,North Bend,54h 42m,2 stops,13:35,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€3,987"
+79,United States,North Bend,54h 7m,2 stops,14:10,13:17+2,OTH,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€4,023"
+80,United States,Oakland,28h 51m,3 stops,02:25,00:16+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€698
+81,United States,Oakland,38h 57m,3 stops,09:35,17:32+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€581
+82,United States,Oakland,29h 58m,2 stops,16:10,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€838
+83,United States,Oakland,32h 27m,3 stops,16:05,17:32+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€738
+84,United States,Oakland,36h 33m,3 stops,09:35,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€677
+85,United States,Oakland,35h 3m,2 stops,17:10,21:13+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€781
+86,United States,Oakland,29h 58m,2 stops,16:10,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€898
+87,United States,Oakland,24h 42m,2 stops,02:25,20:07,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,033"
+88,United States,Oakland,37h 22m,3 stops,17:35,23:57+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€722
+89,United States,Oakland,42h 38m,2 stops,09:35,21:13+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€680
+90,United States,Oakland,34h 57m,2 stops,16:10,20:07+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€866
+91,United States,Oakland,28h 32m,2 stops,02:25,23:57,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,033"
+92,United States,Oakland,46h 7m,4 stops,02:25,17:32+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€549
+93,United States,Oakland,43h 7m,3 stops,05:25,17:32+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€665
+94,United States,Oakland,38h 47m,2 stops,16:10,23:57+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€812
+95,United States,Oakland,38h 47m,2 stops,16:10,23:57+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€838
+96,United States,Oakland,42h 38m,3 stops,09:35,21:13+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€707
+97,United States,Oakland,30h 18m,2 stops,15:50,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,030"
+98,United States,Oakland,43h 43m,4 stops,02:25,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€637
+99,United States,Oakland,36h 33m,3 stops,09:35,15:08+1,OAK,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€851
+100,United States,Orlando,21h 25m,2 stops,02:25,19:50,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€449
+101,United States,Orlando,16h 48m,2 stops,09:35,22:23,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€606
+102,United States,Orlando,23h 53m,2 stops,02:25,22:18,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€454
+103,United States,Orlando,21h 7m,3 stops,02:25,19:32,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€487
+104,United States,Orlando,21h 25m,3 stops,02:25,19:50,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€487
+105,United States,Orlando,21h 7m,3 stops,02:25,19:32,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€504
+106,United States,Orlando,21h 25m,3 stops,02:25,19:50,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€504
+107,United States,Orlando,21h 7m,3 stops,02:25,19:32,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€514
+108,United States,Orlando,14h 46m,2 stops,09:35,20:21,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€717
+109,United States,Orlando,16h 48m,2 stops,09:35,22:23,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€671
+110,United States,Orlando,16h 43m,1 stop,09:35,22:18,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€727
+111,United States,Orlando,17h 21m,2 stops,09:35,22:56,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€672
+112,United States,Orlando,18h 9m,2 stops,09:35,23:44,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€671
+113,United States,Orlando,23h 43m,2 stops,12:20,08:03+1,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€550
+114,United States,Orlando,23h 43m,2 stops,12:20,08:03+1,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€554
+115,United States,Orlando,18h 55m,2 stops,09:35,00:30+1,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/57.png",€671
+116,United States,Orlando,21h 7m,2 stops,02:25,19:32,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€623
+117,United States,Orlando,17h 23m,2 stops,09:35,22:58,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€717
+118,United States,Orlando,17h 23m,2 stops,09:35,22:58,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/172.png",€717
+119,United States,Orlando,21h 25m,2 stops,02:25,19:50,MCO,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€623

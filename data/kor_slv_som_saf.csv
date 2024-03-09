@@ -1,0 +1,261 @@
+,country,city,duration,trajectory,departure_time,arrival_time,airport_id,airline,price
+0,Slovenia,Ljubljana,6h 25m,1 stop,02:25,09:50,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€159
+1,Slovenia,Ljubljana,15h 15m,1 stop,19:15,11:30+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€123
+2,Slovenia,Ljubljana,15h 15m,1 stop,19:15,11:30+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€155
+3,Slovenia,Ljubljana,17h 55m,1 stop,16:35,11:30+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€124
+4,Slovenia,Ljubljana,17h 55m,1 stop,16:35,11:30+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€161
+5,Slovenia,Ljubljana,14h 45m,2 stops,18:15,10:00+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€218
+6,Slovenia,Ljubljana,8h 10m,2 stops,08:15,17:25,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€307
+7,Slovenia,Ljubljana,14h 30m,2 stops,18:15,09:45+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€233
+8,Slovenia,Ljubljana,8h 15m,1 stop,08:10,17:25,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€321
+9,Slovenia,Ljubljana,8h 15m,1 stop,08:10,17:25,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€336
+10,Slovenia,Ljubljana,15h 20m,3 stops,16:05,08:25+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€251
+11,Slovenia,Ljubljana,14h 30m,2 stops,18:30,10:00+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€290
+12,Slovenia,Ljubljana,14h 15m,2 stops,18:30,09:45+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€305
+13,Slovenia,Ljubljana,16h ,3 stops,01:10,18:10,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€303
+14,Slovenia,Ljubljana,15h 25m,2 stops,17:35,10:00+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€333
+15,Slovenia,Ljubljana,25h 5m,3 stops,06:20,08:25+1,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€214
+16,Slovenia,Ljubljana,11h ,2 stops,02:25,14:25,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€399
+17,Slovenia,Ljubljana,14h 45m,3 stops,02:25,18:10,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€342
+18,Slovenia,Ljubljana,14h 45m,3 stops,02:25,18:10,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€346
+19,Slovenia,Ljubljana,9h 35m,2 stops,02:25,13:00,LJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€422
+20,Somalia,Mogadishu,23h 50m,2 stops,13:00,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€563
+21,Somalia,Mogadishu,23h 50m,2 stops,13:00,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€649
+22,Somalia,Mogadishu,16h 15m,2 stops,13:00,08:15+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€855
+23,Somalia,Mogadishu,16h 25m,2 stops,12:50,08:15+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€854
+24,Somalia,Mogadishu,16h 15m,2 stops,13:00,08:15+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€867
+25,Somalia,Mogadishu,19h 5m,2 stops,13:00,11:05+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€805
+26,Somalia,Mogadishu,22h 50m,1 stop,14:00,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€757
+27,Somalia,Mogadishu,24h 30m,3 stops,12:20,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€632
+28,Somalia,Mogadishu,16h 15m,2 stops,13:00,08:15+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€891
+29,Somalia,Mogadishu,24h 30m,3 stops,12:20,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€639
+30,Somalia,Mogadishu,30h 30m,3 stops,06:20,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€488
+31,Somalia,Mogadishu,24h 30m,3 stops,12:20,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€654
+32,Somalia,Mogadishu,23h 15m,2 stops,13:35,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€732
+33,Somalia,Mogadishu,19h 5m,2 stops,13:00,11:05+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€841
+34,Somalia,Mogadishu,24h ,3 stops,12:50,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€684
+35,Somalia,Mogadishu,19h 5m,2 stops,13:00,11:05+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€876
+36,Somalia,Mogadishu,16h 15m,2 stops,13:00,08:15+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€953
+37,Somalia,Mogadishu,19h 45m,3 stops,12:20,11:05+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€824
+38,Somalia,Mogadishu,30h 30m,3 stops,06:20,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€556
+39,Somalia,Mogadishu,28h 40m,3 stops,08:10,15:50+1,MGQ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€607
+40,South Africa,Cape Town,19h 25m,2 stops,16:35,14:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€630
+41,South Africa,Cape Town,21h 20m,2 stops,13:25,12:45+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€635
+42,South Africa,Cape Town,26h 35m,2 stops,13:00,17:35+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€538
+43,South Africa,Cape Town,24h 30m,2 stops,11:30,14:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€634
+44,South Africa,Cape Town,18h 30m,1 stop,14:00,10:30+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€816
+45,South Africa,Cape Town,23h 30m,2 stops,13:00,14:30+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€689
+46,South Africa,Cape Town,26h 35m,2 stops,13:00,17:35+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€638
+47,South Africa,Cape Town,21h 35m,2 stops,13:25,13:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€743
+48,South Africa,Cape Town,25h 35m,3 stops,16:35,20:10+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€621
+49,South Africa,Cape Town,25h 30m,3 stops,16:35,20:05+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€626
+50,South Africa,Cape Town,17h 10m,1 stop,17:10,12:20+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€892
+51,South Africa,Cape Town,26h 35m,3 stops,16:35,21:10+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€621
+52,South Africa,Cape Town,27h 15m,3 stops,12:20,17:35+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€621
+53,South Africa,Cape Town,27h 20m,3 stops,16:35,21:55+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€621
+54,South Africa,Cape Town,22h 40m,2 stops,12:20,13:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€773
+55,South Africa,Cape Town,20h 50m,2 stops,17:10,16:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€823
+56,South Africa,Cape Town,21h 30m,2 stops,17:10,16:40+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€818
+57,South Africa,Cape Town,21h 40m,2 stops,13:20,13:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€815
+58,South Africa,Cape Town,19h 30m,2 stops,16:35,14:05+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€860
+59,South Africa,Cape Town,21h 50m,2 stops,17:10,17:00+1,CPT,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€818
+60,South Africa,Durban,18h 20m,1 stop,17:10,13:30+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€630
+61,South Africa,Durban,23h 25m,3 stops,16:35,18:00+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€582
+62,South Africa,Durban,23h 50m,3 stops,16:35,18:25+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€579
+63,South Africa,Durban,25h ,3 stops,16:35,19:35+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€582
+64,South Africa,Durban,26h ,3 stops,16:35,20:35+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€577
+65,South Africa,Durban,22h 50m,2 stops,17:10,18:00+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€694
+66,South Africa,Durban,22h 30m,3 stops,13:25,13:55+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€667
+67,South Africa,Durban,19h 35m,2 stops,17:10,14:45+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€784
+68,South Africa,Durban,24h 25m,2 stops,17:10,19:35+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€694
+69,South Africa,Durban,23h 20m,3 stops,13:25,14:45+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€664
+70,South Africa,Durban,20h 20m,2 stops,17:10,15:30+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€784
+71,South Africa,Durban,24h 5m,3 stops,13:25,15:30+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€664
+72,South Africa,Durban,21h ,2 stops,17:10,16:10+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€784
+73,South Africa,Durban,28h 30m,3 stops,11:30,18:00+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€587
+74,South Africa,Durban,24h 45m,3 stops,13:25,16:10+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€664
+75,South Africa,Durban,28h 55m,3 stops,11:30,18:25+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€584
+76,South Africa,Durban,27h 25m,3 stops,13:00,18:25+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€627
+77,South Africa,Durban,27h ,3 stops,13:25,18:25+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€636
+78,South Africa,Durban,22h 25m,2 stops,17:10,17:35+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€781
+79,South Africa,Durban,26h 10m,3 stops,13:25,17:35+1,DUR,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€662
+80,South Africa,George,34h 55m,3 stops,01:10,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€559
+81,South Africa,George,19h 30m,2 stops,16:35,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€885
+82,South Africa,George,21h 45m,2 stops,14:00,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€854
+83,South Africa,George,21h 45m,2 stops,14:00,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€864
+84,South Africa,George,22h 5m,2 stops,14:00,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€867
+85,South Africa,George,19h 10m,2 stops,16:35,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€926
+86,South Africa,George,26h 10m,3 stops,09:55,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€766
+87,South Africa,George,34h 35m,3 stops,01:10,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€612
+88,South Africa,George,25h 50m,3 stops,09:55,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€819
+89,South Africa,George,33h 20m,2 stops,02:25,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€745
+90,South Africa,George,33h 40m,4 stops,02:25,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€682
+91,South Africa,George,33h 40m,2 stops,02:25,14:05+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€755
+92,South Africa,George,33h 20m,4 stops,02:25,13:45+1,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€735
+93,South Africa,George,38h 50m,2 stops,23:05,15:55+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/372.png",€704
+94,South Africa,George,31h 45m,2 stops,23:15,09:00+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€846
+95,South Africa,George,41h 25m,2 stops,23:05,18:30+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/372.png",€715
+96,South Africa,George,41h ,2 stops,14:00,09:00+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€757
+97,South Africa,George,41h ,2 stops,14:00,09:00+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€760
+98,South Africa,George,35h 55m,2 stops,23:15,13:10+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€858
+99,South Africa,George,40h 40m,2 stops,17:10,11:50+2,GRJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€771
+100,South Africa,Johannesburg,23h 10m,1 stop,14:00,15:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€452
+101,South Africa,Johannesburg,20h 5m,2 stops,16:35,14:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€485
+102,South Africa,Johannesburg,15h 55m,1 stop,17:10,11:05+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€634
+103,South Africa,Johannesburg,25h 10m,2 stops,11:30,14:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€466
+104,South Africa,Johannesburg,18h 45m,2 stops,13:25,10:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€617
+105,South Africa,Johannesburg,24h 10m,2 stops,13:00,15:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€513
+106,South Africa,Johannesburg,17h 40m,1 stop,14:00,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€690
+107,South Africa,Johannesburg,19h 50m,2 stops,12:20,10:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€617
+108,South Africa,Johannesburg,23h 35m,2 stops,13:25,15:00+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€589
+109,South Africa,Johannesburg,30h 30m,2 stops,01:10,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€462
+110,South Africa,Johannesburg,14h 50m,1 stop,16:35,09:25+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€809
+111,South Africa,Johannesburg,30h 30m,2 stops,01:10,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€467
+112,South Africa,Johannesburg,24h 40m,2 stops,12:20,15:00+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€589
+113,South Africa,Johannesburg,24h 10m,2 stops,13:00,15:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€616
+114,South Africa,Johannesburg,21h 45m,2 stops,09:55,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€669
+115,South Africa,Johannesburg,16h 5m,2 stops,16:05,10:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€780
+116,South Africa,Johannesburg,24h ,2 stops,08:10,10:10+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€628
+117,South Africa,Johannesburg,29h 15m,3 stops,02:25,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€485
+118,South Africa,Johannesburg,29h 15m,3 stops,02:25,09:40+1,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€485
+119,South Africa,Johannesburg,32h 25m,2 stops,17:35,04:00+2,JNB,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/187.png",€479
+120,South Africa,Nelspruit (Mpumalanga),22h 30m,3 stops,16:35,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€611
+121,South Africa,Nelspruit (Mpumalanga),27h 35m,3 stops,11:30,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€616
+122,South Africa,Nelspruit (Mpumalanga),25h 40m,3 stops,13:25,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€696
+123,South Africa,Nelspruit (Mpumalanga),21h 55m,2 stops,17:10,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€816
+124,South Africa,Nelspruit (Mpumalanga),25h 5m,2 stops,14:00,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€790
+125,South Africa,Nelspruit (Mpumalanga),30h 35m,2 stops,02:25,11:00+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€713
+126,South Africa,Nelspruit (Mpumalanga),37h 55m,3 stops,01:10,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€541
+127,South Africa,Nelspruit (Mpumalanga),29h 10m,3 stops,09:55,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€747
+128,South Africa,Nelspruit (Mpumalanga),26h 5m,3 stops,13:00,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€825
+129,South Africa,Nelspruit (Mpumalanga),22h 30m,2 stops,16:35,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€930
+130,South Africa,Nelspruit (Mpumalanga),26h 5m,3 stops,13:00,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€861
+131,South Africa,Nelspruit (Mpumalanga),23h ,3 stops,16:05,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€955
+132,South Africa,Nelspruit (Mpumalanga),27h 35m,3 stops,11:30,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€866
+133,South Africa,Nelspruit (Mpumalanga),36h 40m,4 stops,02:25,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€663
+134,South Africa,Nelspruit (Mpumalanga),24h 55m,3 stops,14:10,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€937
+135,South Africa,Nelspruit (Mpumalanga),26h 45m,3 stops,12:20,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€937
+136,South Africa,Nelspruit (Mpumalanga),25h 40m,3 stops,13:25,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€962
+137,South Africa,Nelspruit (Mpumalanga),25h 40m,3 stops,13:25,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€979
+138,South Africa,Nelspruit (Mpumalanga),30h 55m,3 stops,08:10,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€877
+139,South Africa,Nelspruit (Mpumalanga),27h 35m,3 stops,11:30,17:05+1,MQP,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€959
+140,South Africa,Port Elizabeth,24h 45m,3 stops,16:35,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€593
+141,South Africa,Port Elizabeth,23h 35m,3 stops,13:25,15:00+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€699
+142,South Africa,Port Elizabeth,29h 50m,3 stops,11:30,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€597
+143,South Africa,Port Elizabeth,25h 25m,3 stops,13:25,16:50+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€681
+144,South Africa,Port Elizabeth,26h 10m,3 stops,13:25,17:35+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€670
+145,South Africa,Port Elizabeth,19h 50m,2 stops,17:10,15:00+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€818
+146,South Africa,Port Elizabeth,28h 20m,3 stops,13:00,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€640
+147,South Africa,Port Elizabeth,27h 55m,3 stops,13:25,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€649
+148,South Africa,Port Elizabeth,23h 40m,3 stops,16:35,18:15+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€728
+149,South Africa,Port Elizabeth,21h 40m,2 stops,17:10,16:50+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€800
+150,South Africa,Port Elizabeth,22h 25m,2 stops,17:10,17:35+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€790
+151,South Africa,Port Elizabeth,27h 55m,3 stops,13:25,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€678
+152,South Africa,Port Elizabeth,28h 20m,3 stops,13:00,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€676
+153,South Africa,Port Elizabeth,35h 50m,3 stops,01:10,15:00+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€544
+154,South Africa,Port Elizabeth,37h 40m,3 stops,01:10,16:50+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€525
+155,South Africa,Port Elizabeth,24h 10m,2 stops,17:10,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€797
+156,South Africa,Port Elizabeth,38h 25m,3 stops,01:10,17:35+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€515
+157,South Africa,Port Elizabeth,18h 50m,2 stops,16:35,13:25+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€903
+158,South Africa,Port Elizabeth,27h 20m,2 stops,14:00,19:20+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€757
+159,South Africa,Port Elizabeth,23h 5m,2 stops,14:00,15:05+1,PLZ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€837
+160,South Africa,Upington,17h 55m,2 stops,16:35,12:30+1,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,059"
+161,South Africa,Upington,32h 5m,2 stops,02:25,12:30+1,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€794
+162,South Africa,Upington,35h 15m,2 stops,23:15,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€958
+163,South Africa,Upington,44h 30m,2 stops,14:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€824
+164,South Africa,Upington,44h 30m,2 stops,14:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€826
+165,South Africa,Upington,40h ,2 stops,23:15,17:15+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€963
+166,South Africa,Upington,26h 20m,2 stops,08:10,12:30+1,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,386"
+167,South Africa,Upington,35h 25m,2 stops,23:05,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/372.png","€1,213"
+168,South Africa,Upington,49h 15m,2 stops,14:00,17:15+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€827
+169,South Africa,Upington,49h 15m,2 stops,14:00,17:15+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€836
+170,South Africa,Upington,40h 10m,2 stops,23:05,17:15+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/372.png","€1,213"
+171,South Africa,Upington,33h 20m,4 stops,01:10,12:30+1,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png","€1,315"
+172,South Africa,Upington,42h 30m,2 stops,16:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,153"
+173,South Africa,Upington,42h 30m,2 stops,16:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,155"
+174,South Africa,Upington,39h 15m,2 stops,19:15,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,275"
+175,South Africa,Upington,45h 30m,4 stops,13:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,038"
+176,South Africa,Upington,43h 25m,2 stops,15:05,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,218"
+177,South Africa,Upington,43h 25m,2 stops,15:05,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,218"
+178,South Africa,Upington,45h 30m,4 stops,13:00,12:30+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png","€1,073"
+179,South Africa,Upington,47h 15m,2 stops,16:00,17:15+2,UTN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,155"
+180,South Korea,Jeju City,21h ,2 stops,09:30,15:30+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€726
+181,South Korea,Jeju City,21h 30m,2 stops,09:30,16:00+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€717
+182,South Korea,Jeju City,21h 25m,2 stops,09:30,15:55+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€727
+183,South Korea,Jeju City,21h 40m,2 stops,09:30,16:10+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€727
+184,South Korea,Jeju City,22h ,2 stops,09:30,16:30+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€727
+185,South Korea,Jeju City,22h 35m,2 stops,09:30,17:05+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€717
+186,South Korea,Jeju City,24h 10m,2 stops,09:30,18:40+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€715
+187,South Korea,Jeju City,22h ,2 stops,09:30,16:30+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€775
+188,South Korea,Jeju City,25h 15m,2 stops,09:30,19:45+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€715
+189,South Korea,Jeju City,22h 20m,2 stops,09:30,16:50+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€779
+190,South Korea,Jeju City,25h 25m,2 stops,09:30,19:55+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€715
+191,South Korea,Jeju City,22h 45m,2 stops,09:30,17:15+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€776
+192,South Korea,Jeju City,22h 50m,2 stops,09:30,17:20+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€775
+193,South Korea,Jeju City,25h 55m,2 stops,09:30,20:25+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€715
+194,South Korea,Jeju City,24h 5m,2 stops,09:30,18:35+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€771
+195,South Korea,Jeju City,24h 40m,2 stops,09:30,19:10+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€770
+196,South Korea,Jeju City,25h 25m,3 stops,02:25,12:50+1,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€747
+197,South Korea,Jeju City,30h 10m,2 stops,16:00,07:10+2,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€767
+198,South Korea,Jeju City,32h 35m,2 stops,19:15,12:50+2,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€722
+199,South Korea,Jeju City,34h 40m,3 stops,17:10,12:50+2,CJU,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€652
+200,South Korea,Kwangju,22h 25m,2 stops,09:30,16:55+1,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€832
+201,South Korea,Kwangju,35h 5m,3 stops,14:00,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€968
+202,South Korea,Kwangju,31h 55m,3 stops,17:10,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png","€1,126"
+203,South Korea,Kwangju,23h 45m,2 stops,08:10,16:55+1,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,429"
+204,South Korea,Kwangju,34h ,3 stops,15:05,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,145"
+205,South Korea,Kwangju,35h 40m,3 stops,13:25,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,153"
+206,South Korea,Kwangju,38h 5m,4 stops,11:00,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,079"
+207,South Korea,Kwangju,46h 40m,4 stops,02:25,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€887
+208,South Korea,Kwangju,46h 40m,4 stops,02:25,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€887
+209,South Korea,Kwangju,29h 20m,4 stops,02:35,16:55+1,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,311"
+210,South Korea,Kwangju,36h 10m,2 stops,12:55,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,301"
+211,South Korea,Kwangju,42h 30m,3 stops,13:25,16:55+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,156"
+212,South Korea,Kwangju,44h 55m,4 stops,11:00,16:55+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,082"
+213,South Korea,Kwangju,29h 30m,2 stops,02:25,16:55+1,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,555"
+214,South Korea,Kwangju,46h 40m,4 stops,02:25,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,056"
+215,South Korea,Kwangju,53h 50m,2 stops,19:15,10:05+3,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,036"
+216,South Korea,Kwangju,29h 30m,3 stops,02:25,16:55+1,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png","€1,576"
+217,South Korea,Kwangju,46h 30m,4 stops,02:35,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,133"
+218,South Korea,Kwangju,46h 30m,4 stops,02:35,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/112.png","€1,133"
+219,South Korea,Kwangju,40h 55m,3 stops,08:10,10:05+2,KWJ,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,334"
+220,South Korea,Pusan,21h 25m,2 stops,09:30,15:55+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€779
+221,South Korea,Pusan,22h 35m,2 stops,09:30,17:05+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€790
+222,South Korea,Pusan,24h 10m,3 stops,02:25,11:35+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€743
+223,South Korea,Pusan,24h 10m,3 stops,02:25,11:35+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€748
+224,South Korea,Pusan,24h 50m,2 stops,09:30,19:20+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€779
+225,South Korea,Pusan,25h 25m,2 stops,09:30,19:55+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€783
+226,South Korea,Pusan,30h ,3 stops,17:10,08:10+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€678
+227,South Korea,Pusan,31h 20m,3 stops,17:10,09:30+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€678
+228,South Korea,Pusan,31h 20m,2 stops,19:15,11:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€719
+229,South Korea,Pusan,27h 30m,2 stops,23:05,11:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€799
+230,South Korea,Pusan,21h ,2 stops,09:30,15:30+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€939
+231,South Korea,Pusan,32h 45m,3 stops,19:15,13:00+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€677
+232,South Korea,Pusan,29h 25m,3 stops,02:25,16:50+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€743
+233,South Korea,Pusan,29h 25m,3 stops,02:25,16:50+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€747
+234,South Korea,Pusan,29h 25m,3 stops,02:25,16:50+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€748
+235,South Korea,Pusan,33h 25m,3 stops,17:10,11:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€674
+236,South Korea,Pusan,33h 25m,3 stops,17:10,11:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€674
+237,South Korea,Pusan,38h 20m,2 stops,18:15,17:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/2777.png",€624
+238,South Korea,Pusan,34h ,2 stops,16:35,11:35+2,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png",€720
+239,South Korea,Pusan,21h ,2 stops,09:30,15:30+1,PUS,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€991
+240,South Korea,Seoul,16h 55m,1 stop,09:30,11:25+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/277.png",€653
+241,South Korea,Seoul,15h 55m,1 stop,16:00,16:55+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€703
+242,South Korea,Seoul,17h 55m,1 stop,14:00,16:55+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€712
+243,South Korea,Seoul,16h 10m,1 stop,17:10,18:20+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€808
+244,South Korea,Seoul,18h 25m,2 stops,13:25,16:50+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€710
+245,South Korea,Seoul,22h 50m,2 stops,17:10,01:00+2,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€618
+246,South Korea,Seoul,19h 30m,2 stops,12:20,16:50+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€710
+247,South Korea,Seoul,22h 45m,2 stops,13:00,20:45+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€659
+248,South Korea,Seoul,22h 20m,2 stops,13:25,20:45+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€686
+249,South Korea,Seoul,24h 20m,2 stops,12:40,22:00+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€644
+250,South Korea,Seoul,25h 15m,2 stops,01:10,11:25+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/197.png",€630
+251,South Korea,Seoul,23h 25m,2 stops,12:20,20:45+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€686
+252,South Korea,Seoul,20h 25m,2 stops,12:55,18:20+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€763
+253,South Korea,Seoul,23h 5m,2 stops,12:40,20:45+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€709
+254,South Korea,Seoul,16h 45m,1 stop,15:05,16:50+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png",€943
+255,South Korea,Seoul,23h 40m,2 stops,08:10,16:50+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€721
+256,South Korea,Seoul,22h 45m,2 stops,13:00,20:45+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€745
+257,South Korea,Seoul,24h 5m,2 stops,07:50,16:55+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€724
+258,South Korea,Seoul,23h 25m,3 stops,02:25,10:50+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€686
+259,South Korea,Seoul,20h 55m,2 stops,11:00,16:55+1,ICN,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€825

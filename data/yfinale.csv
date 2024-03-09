@@ -1,0 +1,61 @@
+,country,city,duration,trajectory,departure_time,arrival_time,airport_id,airline,price
+0,Yemen,Sanaa,,XXXX,,,,,
+1,Yemen,Sanaa,,XXXX,,,,,
+2,Yemen,Sanaa,,XXXX,,,,,
+3,Yemen,Sanaa,,XXXX,,,,,
+4,Yemen,Sanaa,,XXXX,,,,,
+5,Yemen,Sanaa,,XXXX,,,,,
+6,Yemen,Sanaa,,XXXX,,,,,
+7,Yemen,Sanaa,,XXXX,,,,,
+8,Yemen,Sanaa,,XXXX,,,,,
+9,Yemen,Sanaa,,XXXX,,,,,
+10,Yemen,Sanaa,,XXXX,,,,,
+11,Yemen,Sanaa,,XXXX,,,,,
+12,Yemen,Sanaa,,XXXX,,,,,
+13,Yemen,Sanaa,,XXXX,,,,,
+14,Yemen,Sanaa,,XXXX,,,,,
+15,Yemen,Sanaa,,XXXX,,,,,
+16,Yemen,Sanaa,,XXXX,,,,,
+17,Yemen,Sanaa,,XXXX,,,,,
+18,Yemen,Sanaa,,XXXX,,,,,
+19,Yemen,Sanaa,,XXXX,,,,,
+20,Zambia,Livingstone,20h 45m,2 stops,14:00,12:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€833
+21,Zambia,Livingstone,18h 45m,2 stops,16:00,12:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€996
+22,Zambia,Livingstone,18h 10m,2 stops,16:35,12:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,046"
+23,Zambia,Livingstone,32h 20m,2 stops,02:25,12:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€777
+24,Zambia,Livingstone,26h 10m,3 stops,13:35,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€956
+25,Zambia,Livingstone,24h 40m,2 stops,15:05,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/142.png","€1,083"
+26,Zambia,Livingstone,25h 45m,3 stops,14:00,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,015"
+27,Zambia,Livingstone,28h 15m,4 stops,11:30,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€913
+28,Zambia,Livingstone,23h 10m,3 stops,16:35,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,135"
+29,Zambia,Livingstone,26h 10m,3 stops,13:35,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,113"
+30,Zambia,Livingstone,26h 10m,3 stops,13:35,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png","€1,113"
+31,Zambia,Livingstone,25h 45m,2 stops,14:00,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,176"
+32,Zambia,Livingstone,37h 10m,2 stops,23:15,14:25+2,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€892
+33,Zambia,Livingstone,28h 15m,4 stops,11:30,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png","€1,070"
+34,Zambia,Livingstone,28h 15m,4 stops,11:30,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png","€1,070"
+35,Zambia,Livingstone,35h 30m,2 stops,23:15,12:45+2,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€984
+36,Zambia,Livingstone,23h 45m,2 stops,16:00,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png","€1,336"
+37,Zambia,Livingstone,42h 45m,2 stops,16:00,12:45+2,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€847
+38,Zambia,Livingstone,31h 35m,3 stops,08:10,17:45+1,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/7.png","€1,135"
+39,Zambia,Livingstone,44h 45m,2 stops,14:00,12:45+2,LVI,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€847
+40,Zimbabwe,Harare,26h 30m,2 stops,13:00,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€525
+41,Zimbabwe,Harare,25h 55m,2 stops,13:35,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€612
+42,Zimbabwe,Harare,21h ,2 stops,13:35,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€705
+43,Zimbabwe,Harare,23h 15m,3 stops,16:35,17:50+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€633
+44,Zimbabwe,Harare,28h 30m,2 stops,14:00,20:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/222.png",€615
+45,Zimbabwe,Harare,21h 35m,2 stops,13:00,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€742
+46,Zimbabwe,Harare,25h 55m,3 stops,16:35,20:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€630
+47,Zimbabwe,Harare,23h 5m,3 stops,11:30,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€681
+48,Zimbabwe,Harare,20h 25m,2 stops,14:10,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€793
+49,Zimbabwe,Harare,28h 20m,3 stops,11:30,17:50+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€613
+50,Zimbabwe,Harare,21h 10m,2 stops,13:25,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€793
+51,Zimbabwe,Harare,21h 35m,2 stops,13:00,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€788
+52,Zimbabwe,Harare,22h 15m,2 stops,12:20,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/62.png",€793
+53,Zimbabwe,Harare,37h 5m,3 stops,02:25,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€497
+54,Zimbabwe,Harare,37h 5m,3 stops,02:25,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€497
+55,Zimbabwe,Harare,37h 5m,3 stops,02:25,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€497
+56,Zimbabwe,Harare,37h 5m,3 stops,02:25,17:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/22.png",€497
+57,Zimbabwe,Harare,20h 30m,2 stops,17:10,15:40+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/47.png",€835
+58,Zimbabwe,Harare,31h ,3 stops,11:30,20:30+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/17.png",€610
+59,Zimbabwe,Harare,21h 35m,2 stops,13:00,12:35+1,HRE,"https://jtc-fm.meta-cdn.net/cdn-cgi/image/width=64,height=64,fit=crop,gravity=auto/upload/auto/carriers/icons/original/5015.png",€851
